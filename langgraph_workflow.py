@@ -8,7 +8,7 @@ LangGraph Workflow: Intelligent Customer Support with Classification and Routing
 
 import os
 from dotenv import load_dotenv
-from typing import TypedDict, Literal
+from typing import TypedDict, Literal, List, Dict, Optional
 from langgraph.graph import StateGraph, END
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import PromptTemplate
@@ -39,6 +39,7 @@ class SupportState(TypedDict):
     user_query: str
     category: str  # products, returns, general, unknown
     response: str
+    conversation_history: Optional[List[Dict]]  # Previous exchanges for context
 
 
 # ============================================================================

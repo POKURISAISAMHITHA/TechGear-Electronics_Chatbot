@@ -383,6 +383,7 @@
 
         // State
         let isWaitingForResponse = false;
+        let sessionId = null; // Session ID for conversation context
 
         // Event Listeners
         sendBtn.addEventListener('click', sendMessage);
@@ -422,13 +423,18 @@
             setInputState(false);
 
             try {
-                // Send request to backend
+                // Send request to backend with session ID
+                const requestBody = { query };
+                if (sessionId) {
+                    requestBody.session_id = sessionId;
+                }
+
                 const response = await fetch(CHAT_ENDPOINT, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
                     },
-                    body: JSON.stringify({ query })
+                    body: JSON.stringify(requestBody)
                 });
 
                 // Remove typing indicator
@@ -441,6 +447,11 @@
                 }
 
                 const data = await response.json();
+
+                // Store session ID for future requests
+                if (data.session_id) {
+                    sessionId = data.session_id;
+                }
 
                 // Display bot message with category info
                 if (data.answer) {
