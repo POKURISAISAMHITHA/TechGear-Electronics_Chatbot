@@ -22,7 +22,7 @@ Featuring intelligent RAG (Retrieval-Augmented Generation) for accurate, context
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge&logo=semver)](https://github.com/POKURISAISAMHITHA/TechGear-Electronics_Chatbot)
+[![Version](https://img.shields.io/badge/version-2.1.0-blue?style=for-the-badge&logo=semver)](https://github.com/POKURISAISAMHITHA/TechGear-Electronics_Chatbot)
 [![Python](https://img.shields.io/badge/python-3.10+-green?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-1.2.7-00ADD8?style=for-the-badge)](https://www.langchain.com/)
@@ -76,9 +76,10 @@ Featuring intelligent RAG (Retrieval-Augmented Generation) for accurate, context
 <tr>
 <td width="50%">
 
-### � **Intelligent AI**
+### 🧠 **Intelligent AI**
 - **Smart Query Classification** - Automatically categorizes user queries
 - **Context-Aware Responses** - RAG-powered accurate answers
+- **Conversation Memory** - 30-min session with follow-up question support
 - **Natural Conversations** - Handles greetings, follow-ups, and more
 - **Gemini 2.5 Flash** - Latest Google AI model
 
@@ -86,7 +87,8 @@ Featuring intelligent RAG (Retrieval-Augmented Generation) for accurate, context
 <td width="50%">
 
 ### 📦 **Product Intelligence**
-- **200+ Products** - Comprehensive product catalog
+- **200+ Products** - Comprehensive product catalog loaded at startup
+- **Fuzzy Product Matching** - Intelligent name extraction with difflib
 - **86 Categories** - Smartwatches, laptops, earbuds, cameras, drones
 - **Real-time Info** - Prices, specs, features, warranty
 - **Stock Status** - Availability information
@@ -123,9 +125,12 @@ Featuring intelligent RAG (Retrieval-Augmented Generation) for accurate, context
 |---------|-------------|--------|---------|
 | 🤖 **Query Classification** | Auto-categorizes into products/returns/general/unknown | ✅ Operational | Routes queries intelligently |
 | 💬 **Natural Language** | Understands greetings, acknowledgments, casual talk | ✅ Operational | Feels like human conversation |
-| 📚 **RAG System** | Retrieves relevant info from 200+ products | ✅ Operational | Accurate, up-to-date answers |
-| � **Smart Search** | Vector similarity search in ChromaDB | ✅ Operational | Finds exact matches fast |
-| 🎯 **Brand Handling** | Suggests alternatives for unavailable brands | ✅ Operational | Better customer experience |
+| 🧠 **Conversation Memory** | Session-based context with 30-minute timeout | ✅ Operational | Remembers previous products |
+| � **Follow-up Questions** | Understands "what's the price?" without repeating product | ✅ Operational | Natural conversation flow |
+| 🎯 **Fuzzy Product Matching** | 3-tier extraction: exact → fuzzy → regex fallback | ✅ Operational | Handles name variations |
+| �📚 **RAG System** | Retrieves relevant info from 200+ products | ✅ Operational | Accurate, up-to-date answers |
+| 🔍 **Smart Search** | Vector similarity search in ChromaDB | ✅ Operational | Finds exact matches fast |
+| �️ **Brand Handling** | Suggests alternatives for unavailable brands | ✅ Operational | Better customer experience |
 | ❓ **Yes/No Detection** | Smart formatting of boolean questions | ✅ Operational | Clear, concise responses |
 | 🛡️ **Error Recovery** | Graceful fallbacks for edge cases | ✅ Operational | Never crashes or freezes |
 | 📊 **Analytics Ready** | Logs categories and routing info | ✅ Operational | Track performance metrics |
@@ -234,7 +239,39 @@ Featuring intelligent RAG (Retrieval-Augmented Generation) for accurate, context
 └────────────────────────────────────────────────────────────────┘
 ```
 
-#### Example 3: Technical Support
+#### Example 3: Conversation Memory & Follow-up Questions
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║           TechGear Customer Support Chat                       ║
+╚════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│  👤 You: Tell me about the Portable Air Compressor            │
+│                                                                │
+│  🤖 Bot: The Portable Air Compressor costs ₹3,999 and         │
+│           features cordless operation, digital display, auto  │
+│           shut-off, LED light, and 150 PSI max pressure.      │
+│           It can inflate tires, balls, and toys.              │
+│                                                                │
+│  👤 You: How much?                                            │
+│                                                                │
+│  🤖 Bot: The Portable Air Compressor is ₹3,999.               │
+│                                                                │
+│  👤 You: What about warranty?                                 │
+│                                                                │
+│  🤖 Bot: 1 year                                               │
+│                                                                │
+│  👤 You: colours available?                                   │
+│                                                                │
+│  🤖 Bot: Black                                                │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
+*Note: The chatbot remembers the product context for 30 minutes, so you don't need to repeat the product name in follow-up questions!*
+
+#### Example 4: Technical Support
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -743,18 +780,22 @@ POST /chat
 **Request:**
 ```json
 {
-  "query": "What is the price of SmartWatch Pro X?"
+  "query": "What is the price of SmartWatch Pro X?",
+  "session_id": "optional-session-uuid"
 }
 ```
 
 **Response:**
 ```json
 {
-  "response": "SmartWatch Pro X: Price ₹15,999 | AMOLED display, 14-day battery, fitness tracking, water resistant, sleep monitoring | Standard warranty: 1 year, Extended: 2 years (₹2,999)",
+  "answer": "SmartWatch Pro X: Price ₹15,999 | AMOLED display, 14-day battery, fitness tracking, water resistant, sleep monitoring | Standard warranty: 1 year, Extended: 2 years (₹2,999)",
   "category": "products",
-  "timestamp": "2026-01-30T14:32:15Z"
+  "routed_to": "rag_responder",
+  "session_id": "550e8400-e29b-41d4-a716-446655440000"
 }
 ```
+
+**Note:** The `session_id` enables conversation memory for follow-up questions. If not provided, a new session will be created automatically.
 
 **Example:**
 ```bash
@@ -998,17 +1039,22 @@ pip install -r requirements_api.txt
 - **Code Lines**: 2000+
 - **Documentation**: 2400+ lines
 - **Test Cases**: 6 comprehensive tests
-- **Features**: 10+ core features
+- **Features**: 13+ core features (including conversation memory)
 - **API Endpoints**: 4 endpoints
 - **Response Types**: 20+ different conversation patterns
+- **Session Management**: 30-minute timeout with automatic cleanup
+- **Product Extraction**: 3-tier matching system (exact, fuzzy, regex)
 
 ---
 
 ## 🎯 Roadmap
 
 ### Phase 2 (Coming Soon)
-- [ ] User authentication / session persistence
-- [ ] Conversation history storage
+- [x] ✅ **Session-based conversation memory** (Completed!)
+- [x] ✅ **Follow-up question support** (Completed!)
+- [x] ✅ **Fuzzy product name matching** (Completed!)
+- [ ] Persistent session storage with Redis
+- [ ] User authentication
 - [ ] Message reactions (👍, 👎)
 - [ ] Quick reply buttons
 - [ ] Markdown support in responses
@@ -1016,7 +1062,7 @@ pip install -r requirements_api.txt
 ### Phase 3 (Future)
 - [ ] Voice input / speech recognition
 - [ ] Real-time message streaming
-- [ ] Conversation sharing via link
+- [ ] Conversation history export
 - [ ] Admin panel
 - [ ] Analytics dashboard
 
