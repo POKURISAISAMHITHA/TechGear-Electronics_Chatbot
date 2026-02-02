@@ -116,6 +116,30 @@
             padding: 0 15px;
         }
 
+        .escalation-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            font-size: 11px;
+            font-weight: 600;
+            padding: 4px 12px;
+            border-radius: 12px;
+            margin: 8px 15px 0 15px;
+            box-shadow: 0 2px 8px rgba(245, 87, 108, 0.3);
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-5px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
         .typing-indicator {
             display: flex;
             gap: 4px;
@@ -418,9 +442,9 @@
 
                 const data = await response.json();
 
-                // Display bot message
+                // Display bot message with category info
                 if (data.answer) {
-                    displayMessage(data.answer, 'bot');
+                    displayMessage(data.answer, 'bot', data.category, data.routed_to);
                 } else {
                     displayMessage(
                         'I encountered an issue processing your request. Please try again.',
@@ -444,7 +468,7 @@
         /**
          * Display a message in the chat window
          */
-        function displayMessage(text, sender) {
+        function displayMessage(text, sender, category = null, routedTo = null) {
             const messageGroup = document.createElement('div');
             messageGroup.className = `message-group ${sender === 'user' ? 'user' : 'bot'}`;
 
@@ -453,6 +477,14 @@
             message.textContent = text;
 
             messageGroup.appendChild(message);
+
+            // Add escalation badge if query was escalated
+            if (routedTo === 'escalation' || category === 'unknown') {
+                const badge = document.createElement('div');
+                badge.className = 'escalation-badge';
+                badge.innerHTML = '🎧 Escalation Support';
+                messageGroup.appendChild(badge);
+            }
 
             // Add timestamp
             const timestamp = document.createElement('div');

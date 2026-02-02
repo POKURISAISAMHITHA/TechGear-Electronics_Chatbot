@@ -40,15 +40,26 @@ def load_and_embed_documents():
     
     # Step 2: Split text into chunks
     print("\n[Step 2] Splitting text into chunks...")
+    # Optimized chunking for FAST processing and accurate retrieval
+    # Analysis: avg product = 347 chars, using 600 for speed + completeness
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=500,
-        chunk_overlap=50,
-        separators=["\n\n", "\n", " ", ""]
+        chunk_size=600,  # Optimal for speed: covers avg product (347) + context
+        chunk_overlap=80,  # Balanced overlap for context without redundancy
+        separators=[
+            "\n\n==================== ",  # Category headers (primary)
+            "\n\nProduct: ",  # Product boundaries (secondary)
+            "\n\n",  # Paragraph breaks
+            "\n",  # Line breaks
+            " ",  # Word breaks
+            ""  # Character breaks (fallback)
+        ]
     )
     chunks = text_splitter.split_documents(documents)
     print(f"✓ Text split successfully")
     print(f"  - Total chunks: {len(chunks)}")
-    print(f"  - Chunk size: 500 characters (with 50 character overlap)")
+    print(f"  - Chunk size: 600 characters (optimized for speed)")
+    print(f"  - Chunk overlap: 80 characters (balanced)")
+    print(f"  - Strategy: Fast embeddings + accurate retrieval")
     
     # Display sample chunks
     print("\n  Sample chunks:")

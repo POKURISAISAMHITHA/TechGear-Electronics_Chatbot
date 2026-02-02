@@ -1,0 +1,171 @@
+{
+  "test_queries": {
+    "product_queries": {
+      "description": "Test product information retrieval",
+      "queries": [
+        "What smartwatches do you have?",
+        "Show me all laptops",
+        "What wireless earbuds are available?",
+        "Do you have any gaming monitors?",
+        "What cameras do you sell?",
+        "List all power banks",
+        "What drones do you have in stock?",
+        "Tell me about your smart home devices",
+        "What fitness trackers are available?",
+        "Do you have any tablets?"
+      ]
+    },
+    "specific_product_features": {
+      "description": "Test detailed product information extraction",
+      "queries": [
+        "Tell me about the SmartWatch Pro X features",
+        "What are the specifications of the UltraBook Pro 15?",
+        "What's the battery life of the TrueSound Pro earbuds?",
+        "How much storage does the GamingStation Elite have?",
+        "What's the resolution of the UltraView 4K Monitor?",
+        "What's included with the HomeHub Smart Speaker?",
+        "What's the warranty on the PowerMax 20000?",
+        "Is the ActionCam Pro waterproof?"
+      ]
+    },
+    "price_queries": {
+      "description": "Test price information retrieval",
+      "queries": [
+        "How much does the SmartWatch Pro X cost?",
+        "What's the price of the UltraBook Pro 15?",
+        "What are your cheapest earbuds?",
+        "Show me laptops under $1000",
+        "What's the most expensive smartwatch?",
+        "How much is the 4K drone?",
+        "Price range for power banks?"
+      ]
+    },
+    "comparison_queries": {
+      "description": "Test multi-product comparison",
+      "queries": [
+        "Compare SmartWatch Pro X and SmartWatch Classic Gold",
+        "What's the difference between your earbuds models?",
+        "Which laptop has better specs?",
+        "Compare gaming monitors",
+        "What's better: TrueSound Pro or TrueSound Bass?"
+      ]
+    },
+    "availability_queries": {
+      "description": "Test stock and availability",
+      "queries": [
+        "Is the SmartWatch Pro X in stock?",
+        "What products are available now?",
+        "Are all laptops in stock?",
+        "Do you have the UltraView 4K Monitor available?",
+        "What's out of stock?"
+      ]
+    },
+    "policy_queries": {
+      "description": "Test company policy retrieval",
+      "queries": [
+        "What is your return policy?",
+        "How long is the warranty?",
+        "Do you offer free shipping?",
+        "What's your refund policy?",
+        "Can I exchange products?",
+        "What are your delivery options?",
+        "Do you have a price match guarantee?",
+        "What's your customer support hours?"
+      ]
+    },
+    "technical_specs": {
+      "description": "Test technical specification retrieval",
+      "queries": [
+        "What processor does the UltraBook Pro have?",
+        "How much RAM in gaming laptops?",
+        "What's the screen size of the tablets?",
+        "What Bluetooth version do the earbuds use?",
+        "What camera resolution on the drones?",
+        "What's the refresh rate of gaming monitors?",
+        "How many USB ports on the laptop?"
+      ]
+    },
+    "category_queries": {
+      "description": "Test category-level information",
+      "queries": [
+        "What wearable devices do you sell?",
+        "Show me all audio products",
+        "What computing devices are available?",
+        "List all smart home products",
+        "What photography equipment do you have?",
+        "Show me all accessories"
+      ]
+    },
+    "feature_based_queries": {
+      "description": "Test feature-based search",
+      "queries": [
+        "Which products have water resistance?",
+        "What devices have GPS?",
+        "Which laptops have touchscreens?",
+        "What products have wireless charging?",
+        "Which earbuds have noise cancellation?",
+        "What devices work with Alexa?",
+        "Which cameras shoot 4K video?"
+      ]
+    },
+    "conversational_queries": {
+      "description": "Test natural language understanding",
+      "queries": [
+        "I need a smartwatch for running",
+        "Looking for a laptop for gaming",
+        "Want earbuds for the gym",
+        "Need a gift for a photographer",
+        "Best product for home office setup",
+        "Something for outdoor activities",
+        "Device for fitness tracking"
+      ]
+    },
+    "complex_queries": {
+      "description": "Test multi-part and complex questions",
+      "queries": [
+        "What smartwatches have GPS and heart rate monitoring?",
+        "Do you have laptops with 16GB RAM and SSD storage?",
+        "Which products come with a 2-year warranty?",
+        "What earbuds have both noise cancellation and long battery life?",
+        "I want a 4K monitor with high refresh rate",
+        "Show me waterproof cameras under $500"
+      ]
+    },
+    "edge_cases": {
+      "description": "Test challenging scenarios",
+      "queries": [
+        "What's the cheapest product?",
+        "What's the most expensive item?",
+        "Do you sell phone cases?",
+        "What about car accessories?",
+        "Tell me about products not in stock",
+        "What's new this month?",
+        "Any products on sale?"
+      ]
+    },
+    "support_queries": {
+      "description": "Test support routing and escalation",
+      "queries": [
+        "I need help with my order",
+        "My product is defective",
+        "How do I track my order?",
+        "I want to cancel my order",
+        "Need to speak to customer service",
+        "Product not working properly",
+        "File a complaint"
+      ]
+    },
+    "invalid_queries": {
+      "description": "Test fallback and error handling",
+      "queries": [
+        "What's the weather today?",
+        "Tell me a joke",
+        "Who is the president?",
+        "What's 2+2?",
+        "Do you sell cars?",
+        "Where is your store located?",
+        "Random gibberish xyz123"
+      ]
+    }
+  }
+}

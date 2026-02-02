@@ -59,7 +59,7 @@ def classifier_node(state: SupportState) -> SupportState:
     # Try Gemini classification first
     try:
         llm = ChatGoogleGenerativeAI(
-            model="gemini-pro",
+            model="gemini-2.5-flash",
             google_api_key=GEMINI_API_KEY,
             temperature=0.3
         )
@@ -69,8 +69,14 @@ def classifier_node(state: SupportState) -> SupportState:
 Categories:
 - products: Questions about product features, specifications, pricing, availability, what products we sell
 - returns: Questions about return policy, refunds, exchanges
-- general: General questions about support hours, contact info, company info
+- general: Greetings (hi, hello, hey), acknowledgments (ok, thanks, thank you), support hours, contact info, company info, payment options (COD, credit card, UPI, EMI), shipping/delivery, warranties, installation
 - unknown: Anything that doesn't fit above categories
+
+IMPORTANT: 
+- Greetings like "hi", "hello", "hey" should be classified as "general"
+- Acknowledgments like "ok", "thanks", "thank you" should be classified as "general"
+- Payment queries like "COD", "cash on delivery", "payment options", "EMI" should be classified as "general"
+- Shipping/delivery queries should be classified as "general"
 
 Query: {query}
 
@@ -111,7 +117,7 @@ Respond with ONLY the category name (products, returns, general, or unknown). No
             category = "products"
         elif any(word in query_lower for word in ["return", "refund", "exchange", "policy"]):
             category = "returns"
-        elif any(word in query_lower for word in ["support", "hours", "contact", "help", "email", "question", "questions"]):
+        elif any(word in query_lower for word in ["cod", "cash on delivery", "payment", "upi", "credit card", "debit card", "emi", "delivery", "shipping", "support", "hours", "contact", "help", "email", "question", "questions", "warranty", "installation"]):
             category = "general"
         else:
             category = "unknown"
@@ -140,31 +146,19 @@ def rag_responder_node(state: SupportState) -> SupportState:
     print(f"Query: {state['user_query']}")
     print(f"Category: {state['category']}")
     
-    # Check if asking for product list
-    query_lower = state["user_query"].lower()
-    product_triggers = [
-        "what products",
-        "what do you sell",
-        "products do you sell",
-        "list of products",
-        "which products",
-        "sell"
-    ]
+    # REMOVED: Old hardcoded product list logic
+    # Now using RAG chain for all product queries
     
-    if any(trigger in query_lower for trigger in product_triggers) and "products" in state["category"]:
-        products = "SmartWatch Pro X, Wireless Earbuds Elite, Power Bank Ultra"
-        print(f"Product list response: {products}")
-        return {
-            "user_query": state["user_query"],
-            "category": state["category"],
-            "response": products
-        }
+    # Expand common acronyms for better RAG retrieval
+    expanded_query = expand_acronyms(state["user_query"])
+    if expanded_query != state["user_query"]:
+        print(f"Expanded query: {expanded_query}")
     
     # Try RAG chain
     if RAG_AVAILABLE:
         try:
             rag_chain = create_rag_chain()
-            response = rag_chain.invoke(state["user_query"])
+            response = rag_chain.invoke(expanded_query)
             print(f"Response: {response[:100]}...")
             
             return {
@@ -184,6 +178,35 @@ def rag_responder_node(state: SupportState) -> SupportState:
         "category": state["category"],
         "response": response
     }
+
+
+def expand_acronyms(query: str) -> str:
+    """
+    Expand common acronyms to improve vector search retrieval
+    """
+    query_lower = query.lower()
+    
+    # Dictionary of acronyms and their expansions
+    acronym_map = {
+        ' cod ': ' Cash on Delivery (COD) ',
+        'cod?': 'Cash on Delivery?',
+        'cod ': 'Cash on Delivery ',
+        ' emi ': ' EMI Equated Monthly Installments ',
+        'emi?': 'EMI payment?',
+        ' upi ': ' UPI payment ',
+        'upi?': 'UPI payment?',
+    }
+    
+    expanded = query
+    for acronym, expansion in acronym_map.items():
+        if acronym in query_lower:
+            # Replace while preserving case
+            import re
+            pattern = re.compile(re.escape(acronym), re.IGNORECASE)
+            expanded = pattern.sub(expansion, expanded)
+            break  # Only expand first match to avoid over-expansion
+    
+    return expanded
 
 
 def get_concise_response(query: str) -> str:
@@ -382,14 +405,29 @@ def escalation_node(state: SupportState) -> SupportState:
     print(f"Query: {state['user_query']}")
     print(f"Category: {state['category']} (requires escalation)")
     
-    escalation_message = """Your query requires human support. Please contact our support team:
-
-📧 Email: support@techgear.com
-🕐 Hours: Mon-Sat, 9AM-6PM IST
-
-We'll get back to you as soon as possible!"""
+    # Check if query is completely off-topic (weather, jokes, general knowledge, etc.)
+    query_lower = state['user_query'].lower()
+    off_topic_keywords = [
+        'weather', 'joke', 'capital', 'country', 'recipe', 'news', 
+        'sports', 'movie', 'music', 'game', 'celebrity', 'politics',
+        'calculate', 'math', 'what is', 'who is', 'when is', 'where is'
+    ]
     
-    print(f"Response: Escalation triggered")
+    is_off_topic = any(keyword in query_lower for keyword in off_topic_keywords)
+    
+    if is_off_topic:
+        escalation_message = """I'm a TechGear Electronics support bot. I can help with products, pricing, shipping, payments, and returns.
+
+Ask me about smartwatches, laptops, earbuds, or other electronics! 📱"""
+    else:
+        # For unclear but potentially relevant queries
+        escalation_message = """I'm not sure about that. Please contact our support team:
+
+📧 support@techgear.com | � Mon-Sat, 9AM-6PM IST
+
+Or ask me about products, pricing, shipping, or returns!"""
+    
+    print(f"Response: {'Off-topic query' if is_off_topic else 'Unclear query'} - Escalation triggered")
     
     return {
         "user_query": state["user_query"],

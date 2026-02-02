@@ -1,0 +1,75 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# Documentation (optional - uncomment if you want to exclude)
+# *.md
+# docs/
+
+# Test files and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Logs
+*.log
+server.log
+nohup.out
+logs/
+
+# Environment files (IMPORTANT: exclude to prevent leaking secrets)
+.env
+.env.local
+.env.production
+
+# ChromaDB (will be regenerated or mounted as volume)
+# Uncomment if you want to exclude the existing DB
+# chroma_db/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS files
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks (optional)
+.ipynb_checkpoints/
+*.ipynb
+
+# Test outputs
+test_results/
+test_report*.txt
+test_queries.json

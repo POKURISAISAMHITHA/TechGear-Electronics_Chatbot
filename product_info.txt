@@ -1,13 +1,2136 @@
+=== TECHGEAR ELECTRONICS - COMPLETE PRODUCT CATALOG ===
+
+==================== SMARTWATCHES & FITNESS TRACKERS ====================
+
 Product: SmartWatch Pro X
-Price: ₹15,999 | Features: Heart rate, GPS, 7-day battery, water resistant 50m
+SKU: SW-PRO-X-001
+Price: ₹15,999
+Category: Smartwatches
+Features: Heart rate monitor, GPS tracking, 7-day battery life, water resistant 50m, AMOLED display, sleep tracking, stress monitoring, 100+ workout modes
+Specifications: 1.4" AMOLED display, Bluetooth 5.2, 500mAh battery, Compatible with iOS & Android
 Warranty: 1 year standard, 2 years extended (₹1,999)
- 
+Stock Status: In Stock
+Colors Available: Black, Silver, Rose Gold
+
+Product: SmartWatch Ultra Sport
+SKU: SW-ULTRA-002
+Price: ₹24,999
+Category: Smartwatches
+Features: Advanced GPS, 14-day battery, sapphire glass, titanium body, dive computer up to 100m, ECG sensor, blood oxygen monitoring
+Specifications: 1.5" sapphire display, Dual-band GPS, 800mAh battery, Military-grade durability
+Warranty: 2 years standard
+Stock Status: In Stock
+Colors Available: Titanium Gray, Ocean Blue
+
+Product: FitBand Smart
+SKU: FB-SMART-003
+Price: ₹3,499
+Category: Fitness Trackers
+Features: Step counter, calorie tracker, heart rate monitor, 10-day battery, 5ATM water resistant, smartphone notifications
+Specifications: 0.96" OLED display, Bluetooth 5.0, 150mAh battery
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Blue, Pink, Green
+
+Product: SmartWatch Classic Gold
+SKU: SW-GOLD-004
+Price: ₹32,999
+Category: Smartwatches
+Features: Premium design, Bluetooth calling, music control, 5-day battery, health tracking suite, NFC payments
+Specifications: 1.43" AMOLED circular display, Stainless steel body, 450mAh battery
+Warranty: 2 years standard
+Stock Status: In Stock
+Colors Available: Gold, Silver
+
+Product: Kids SmartWatch Guardian
+SKU: SW-KIDS-005
+Price: ₹6,999
+Category: Smartwatches
+Features: GPS tracking, SOS button, geofencing, video call, games, educational apps, durable design
+Specifications: 1.3" LCD touchscreen, 4G connectivity, 650mAh battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Blue, Pink, Green
+
+==================== WIRELESS EARBUDS & HEADPHONES ====================
+
 Product: Wireless Earbuds Elite
-Price: ₹4,999 | Features: ANC, 24-hour battery, Bluetooth 5.2 | Warranty: 6 months
- 
+SKU: WE-ELITE-006
+Price: ₹4,999
+Category: Earbuds
+Features: Active Noise Cancellation (ANC), 24-hour total battery, Bluetooth 5.2, IPX5 water resistant, touch controls, transparency mode
+Specifications: 10mm drivers, USB-C charging, Quick charge 10min = 2hrs playback
+Warranty: 6 months standard, 1 year extended (₹799)
+Stock Status: In Stock
+Colors Available: Black, White, Blue
+
+Product: Earbuds Pro Max
+SKU: WE-MAX-007
+Price: ₹9,999
+Category: Earbuds
+Features: Hybrid ANC, 40-hour battery, LDAC codec, wireless charging, premium sound quality, multi-device pairing
+Specifications: 13mm titanium drivers, Bluetooth 5.3, USB-C & Qi wireless charging
+Warranty: 1 year standard
+Stock Status: In Stock
+Colors Available: Matte Black, Pearl White
+
+Product: Gaming Earbuds Thunder
+SKU: WE-GAME-008
+Price: ₹3,299
+Category: Earbuds
+Features: 40ms low latency, gaming mode, RGB lighting, 20-hour battery, ergonomic fit, dual microphones
+Specifications: 10mm dynamic drivers, Bluetooth 5.2, USB-C charging
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Red, Blue
+
+Product: Over-Ear Headphones Studio
+SKU: HP-STUDIO-009
+Price: ₹12,999
+Category: Headphones
+Features: Premium ANC, 50-hour battery, studio-quality sound, memory foam cushions, foldable design, wired & wireless modes
+Specifications: 40mm drivers, Bluetooth 5.2, 3.5mm jack included, USB-C charging
+Warranty: 1 year standard
+Stock Status: In Stock
+Colors Available: Black, Silver, Navy Blue
+
+Product: Neckband Sport Flex
+SKU: NB-FLEX-010
+Price: ₹2,299
+Category: Neckband
+Features: Magnetic earbuds, 20-hour battery, fast charging, sweatproof, voice assistant support
+Specifications: 12mm drivers, Bluetooth 5.1, Magnetic storage, IPX4 rated
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Green
+
+Product: Kids Headphones Safe
+SKU: HP-KIDS-011
+Price: ₹1,999
+Category: Headphones
+Features: Volume limiting 85dB, durable design, cushioned ear cups, foldable, colorful design, adjustable headband
+Specifications: 30mm drivers, Wired connection, 3.5mm jack
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Pink, Blue, Yellow, Purple
+
+==================== POWER BANKS & CHARGERS ====================
+
 Product: Power Bank Ultra 20000mAh
-Price: ₹2,499 | Features: Fast charging 22.5W, USB-C & USB-A | Warranty: 1 year
- 
-Return Policy: 7-day no-questions-asked. Refund in 5-7 business days.
-Support: Mon-Sat, 9AM-6PM IST | support@techgear.com
+SKU: PB-ULTRA-012
+Price: ₹2,499
+Category: Power Banks
+Features: Fast charging 22.5W, USB-C & USB-A ports, LED display, compact design, multiple device charging
+Specifications: 20000mAh capacity, Input: 18W, Output: 22.5W max, 4 ports
+Warranty: 1 year standard
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Power Bank Mega 50000mAh
+SKU: PB-MEGA-013
+Price: ₹5,999
+Category: Power Banks
+Features: 65W fast charging, laptop charging support, 4 USB ports, 100W USB-C PD, LED display, durable build
+Specifications: 50000mAh capacity, USB-C PD 100W, Charges laptops & phones
+Warranty: 2 years standard
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Mini Power Bank 5000mAh
+SKU: PB-MINI-014
+Price: ₹999
+Category: Power Banks
+Features: Pocket-sized, built-in cable, 10W output, lightweight, LED indicator
+Specifications: 5000mAh capacity, Micro-USB & Lightning cables included
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, White, Pink, Blue
+
+Product: Solar Power Bank 30000mAh
+SKU: PB-SOLAR-015
+Price: ₹3,999
+Category: Power Banks
+Features: Solar charging panel, IP67 waterproof, 3 USB ports, LED flashlight, compass, outdoor rugged design
+Specifications: 30000mAh capacity, Solar input 5W, USB output 18W
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Orange
+
+Product: Wireless Charging Power Bank 10000mAh
+SKU: PB-WIRELESS-016
+Price: ₹2,799
+Category: Power Banks
+Features: Qi wireless charging 15W, wired fast charging 20W, magnetic attachment, slim design
+Specifications: 10000mAh capacity, Wireless 15W, USB-C 20W PD
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Wall Charger 65W GaN
+SKU: CH-GAN-017
+Price: ₹2,999
+Category: Chargers
+Features: GaN technology, 65W USB-C PD, compact size, foldable plug, multi-device charging, universal compatibility
+Specifications: USB-C 65W PD, 2 USB-A ports 18W each, 100-240V input
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White, Black
+
+Product: Car Charger Dual USB 36W
+SKU: CH-CAR-018
+Price: ₹699
+Category: Chargers
+Features: Dual USB ports, fast charging, LED display, compact design, universal fit
+Specifications: 18W per port, 12V-24V input, Overcurrent protection
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Wireless Charging Pad 15W
+SKU: CH-PAD-019
+Price: ₹1,499
+Category: Chargers
+Features: 15W fast wireless charging, Qi certified, LED indicator, non-slip surface, case-friendly
+Specifications: 15W max output, USB-C input, Foreign object detection
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Multi-Port Charging Station 100W
+SKU: CH-STATION-020
+Price: ₹4,999
+Category: Chargers
+Features: 6 ports total, 100W total output, USB-C PD 65W, 4 USB-A ports, intelligent power distribution
+Specifications: 1x USB-C 65W, 4x USB-A 18W, 1x Wireless charging pad
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== MOBILE ACCESSORIES ====================
+
+Product: Tempered Glass Screen Protector
+SKU: MA-GLASS-021
+Price: ₹299
+Category: Screen Protectors
+Features: 9H hardness, anti-scratch, anti-fingerprint, HD clarity, easy installation kit included
+Specifications: 0.33mm thickness, 99% transparency, Bubble-free installation
+Warranty: 30 days replacement
+Stock Status: In Stock
+Compatible Models: iPhone 14/13/12, Samsung S23/S22, OnePlus 11/10
+
+Product: Premium Phone Case Armor
+SKU: MA-CASE-022
+Price: ₹799
+Category: Phone Cases
+Features: Military-grade drop protection, raised bezels, precise cutouts, grippy texture, wireless charging compatible
+Specifications: TPU + PC material, Air cushion corners, 10ft drop protection
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Blue, Red
+Compatible Models: iPhone 14/13/12, Samsung S23/S22, OnePlus 11/10
+
+Product: Leather Wallet Phone Case
+SKU: MA-WALLET-023
+Price: ₹1,299
+Category: Phone Cases
+Features: Genuine leather, card slots (3), magnetic closure, kickstand, RFID protection
+Specifications: Premium leather, 3 card slots, 1 cash pocket
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Brown, Black, Navy Blue
+Compatible Models: iPhone 14/13, Samsung S23/S22
+
+Product: Phone Ring Holder 360°
+SKU: MA-RING-024
+Price: ₹199
+Category: Accessories
+Features: 360° rotation, strong adhesive, kickstand function, magnetic car mount compatible
+Specifications: Zinc alloy, 3M adhesive, Reusable
+Warranty: 3 months
+Stock Status: In Stock
+Colors Available: Black, Silver, Rose Gold
+
+Product: Car Phone Mount Magnetic
+SKU: MA-MOUNT-025
+Price: ₹599
+Category: Accessories
+Features: Strong magnetic hold, 360° rotation, dashboard & vent mount options, one-hand operation
+Specifications: 6 magnets, Adjustable arm, Universal fit
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Selfie Stick Tripod Bluetooth
+SKU: MA-SELFIE-026
+Price: ₹899
+Category: Accessories
+Features: Bluetooth remote, extendable 28", tripod base, 360° rotation, lightweight & portable
+Specifications: Aluminum alloy, Bluetooth 5.0, 50-hour battery
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Cable Organizer Kit
+SKU: MA-ORGANIZER-027
+Price: ₹399
+Category: Accessories
+Features: 10-piece set, cable clips, cord wraps, cable sleeves, adhesive cable holders
+Specifications: Silicone & plastic, Reusable, Universal fit
+Warranty: None
+Stock Status: In Stock
+Colors Available: Mixed colors
+
+==================== SMART HOME DEVICES ====================
+
+Product: Smart LED Bulb RGB
+SKU: SH-BULB-028
+Price: ₹899
+Category: Smart Home
+Features: 16 million colors, voice control (Alexa/Google), schedule setting, music sync, energy efficient
+Specifications: E27 base, 9W (60W equivalent), WiFi 2.4GHz, 800 lumens
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White base
+
+Product: Smart Plug Mini WiFi
+SKU: SH-PLUG-029
+Price: ₹699
+Category: Smart Home
+Features: WiFi control, voice assistant compatible, schedule timers, energy monitoring, compact design
+Specifications: 16A max, WiFi 2.4GHz, App control (iOS/Android)
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Smart Light Strip 5M RGB
+SKU: SH-STRIP-030
+Price: ₹1,999
+Category: Smart Home
+Features: 5 meters length, 16 million colors, music sync, voice control, adhesive backing, cuttable
+Specifications: 5050 LEDs, WiFi 2.4GHz, 12V adapter included
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: RGB
+
+Product: Smart Security Camera 1080P
+SKU: SH-CAM-031
+Price: ₹3,499
+Category: Smart Home
+Features: 1080P HD, night vision, motion detection, two-way audio, cloud storage, mobile alerts
+Specifications: 2MP sensor, WiFi 2.4GHz, MicroSD support up to 128GB, IP65 weatherproof
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Smart Doorbell Camera
+SKU: SH-DOORBELL-032
+Price: ₹4,999
+Category: Smart Home
+Features: 1080P video, two-way talk, motion detection, night vision, cloud recording, mobile notifications
+Specifications: 160° wide angle, WiFi 2.4GHz, Rechargeable battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Smart Speaker Voice Assistant
+SKU: SH-SPEAKER-033
+Price: ₹3,999
+Category: Smart Home
+Features: Voice control, music streaming, smart home hub, hands-free calling, multi-room audio
+Specifications: WiFi & Bluetooth, 360° sound, Touch controls
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Smart Thermostat WiFi
+SKU: SH-THERMO-034
+Price: ₹5,999
+Category: Smart Home
+Features: Temperature control, energy saving, schedule programming, voice control, mobile app
+Specifications: WiFi enabled, Touchscreen display, Compatible with most HVAC systems
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+Product: Smart Door Lock Biometric
+SKU: SH-LOCK-035
+Price: ₹12,999
+Category: Smart Home
+Features: Fingerprint + PIN + App + Key, auto-lock, guest access, activity log, battery backup
+Specifications: Zinc alloy, Fingerprint capacity 100, Low battery alert
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Silver, Black
+
+==================== LAPTOPS & TABLETS ====================
+
+Product: Laptop UltraBook Pro 14
+SKU: LP-ULTRA-036
+Price: ₹65,999
+Category: Laptops
+Features: Intel Core i5 12th Gen, 16GB RAM, 512GB SSD, 14" FHD display, backlit keyboard, fingerprint sensor
+Specifications: Intel i5-1235U, 16GB DDR4, 512GB NVMe SSD, Intel Iris Xe Graphics, Windows 11
+Warranty: 2 years standard
+Stock Status: In Stock
+Colors Available: Silver, Space Gray
+
+Product: Gaming Laptop Predator 15
+SKU: LP-GAME-037
+Price: ₹89,999
+Category: Laptops
+Features: Intel Core i7 12th Gen, RTX 3060 6GB, 16GB RAM, 1TB SSD, 15.6" 144Hz display, RGB keyboard
+Specifications: Intel i7-12700H, RTX 3060, 16GB DDR5, 1TB NVMe, 144Hz FHD display
+Warranty: 2 years standard
+Stock Status: In Stock
+Colors Available: Black
+
+Product: MacBook Style Laptop 13
+SKU: LP-SLIM-038
+Price: ₹54,999
+Category: Laptops
+Features: Slim aluminum body, Intel Core i3 11th Gen, 8GB RAM, 256GB SSD, 13.3" FHD display, long battery life
+Specifications: Intel i3-1115G4, 8GB DDR4, 256GB SSD, Intel UHD Graphics, Windows 11
+Warranty: 1 year standard
+Stock Status: In Stock
+Colors Available: Silver, Rose Gold
+
+Product: 2-in-1 Convertible Laptop
+SKU: LP-CONVERTIBLE-039
+Price: ₹45,999
+Category: Laptops
+Features: 360° hinge, touchscreen, stylus pen included, Intel Core i5, 8GB RAM, 512GB SSD
+Specifications: 13.3" FHD touchscreen, Intel i5-1135G7, Active stylus included
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Silver
+
+Product: Budget Laptop Essential 15
+SKU: LP-BUDGET-040
+Price: ₹28,999
+Category: Laptops
+Features: AMD Ryzen 5, 8GB RAM, 512GB SSD, 15.6" FHD display, numeric keypad, USB-C
+Specifications: AMD Ryzen 5 5500U, 8GB DDR4, 512GB SSD, Radeon Graphics
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: Tablet Pro 11
+SKU: TB-PRO-041
+Price: ₹35,999
+Category: Tablets
+Features: 11" 2K display, 8GB RAM, 128GB storage, stylus support, keyboard compatible, quad speakers
+Specifications: Snapdragon 870, 11" 2560x1600 display, 8000mAh battery, Android 13
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Space Gray, Silver
+
+Product: Tablet Mini 8
+SKU: TB-MINI-042
+Price: ₹12,999
+Category: Tablets
+Features: 8" display, portable design, 4GB RAM, 64GB storage, long battery life, perfect for reading
+Specifications: MediaTek Helio G80, 8" 1920x1200 display, 5100mAh battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Silver, Blue
+
+Product: Kids Tablet Educational
+SKU: TB-KIDS-043
+Price: ₹8,999
+Category: Tablets
+Features: Parental controls, educational apps pre-loaded, durable case, kid-friendly interface, 10" display
+Specifications: Quad-core processor, 3GB RAM, 32GB storage, Protective case included
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Blue, Pink
+
+==================== KEYBOARDS & MICE ====================
+
+Product: Mechanical Keyboard RGB Gaming
+SKU: KB-MECH-044
+Price: ₹5,999
+Category: Keyboards
+Features: Mechanical blue switches, RGB backlight, programmable keys, wrist rest, N-key rollover
+Specifications: Blue switches, USB-C cable, Aluminum frame, Windows & Mac compatible
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Wireless Keyboard Mouse Combo
+SKU: KB-COMBO-045
+Price: ₹1,999
+Category: Keyboards
+Features: Wireless 2.4GHz, quiet keys, compact design, mouse included, long battery life
+Specifications: 2.4GHz USB receiver, 12-month battery life, Plug & play
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Bluetooth Keyboard Slim
+SKU: KB-BT-046
+Price: ₹2,499
+Category: Keyboards
+Features: Bluetooth 5.0, ultra-slim, rechargeable, multi-device pairing, scissor switches
+Specifications: Bluetooth 5.0, 3 device switching, 60-day battery, USB-C charging
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Silver, Space Gray
+
+Product: Gaming Mouse RGB 7200 DPI
+SKU: MS-GAME-047
+Price: ₹1,999
+Category: Mice
+Features: 7200 DPI, RGB lighting, 7 programmable buttons, ergonomic design, braided cable
+Specifications: Optical sensor, 7200 DPI adjustable, 1000Hz polling rate, USB 2.0
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Wireless Mouse Silent
+SKU: MS-SILENT-048
+Price: ₹799
+Category: Mice
+Features: Silent clicks, wireless 2.4GHz, ergonomic, 18-month battery, 3 DPI levels
+Specifications: 1600 DPI max, USB nano receiver, Auto sleep mode
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Gray
+
+Product: Vertical Ergonomic Mouse
+SKU: MS-ERGO-049
+Price: ₹1,499
+Category: Mice
+Features: Vertical design reduces strain, wireless, rechargeable, adjustable DPI, 6 buttons
+Specifications: 2400 DPI, 2.4GHz + Bluetooth, Rechargeable battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Trackpad Wireless Multi-touch
+SKU: TP-MULTI-050
+Price: ₹3,999
+Category: Input Devices
+Features: Multi-touch gestures, glass surface, rechargeable, Bluetooth, Windows & Mac compatible
+Specifications: Bluetooth 5.0, Gesture support, USB-C charging, 30-day battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Silver, Space Gray
+
+==================== MONITORS & DISPLAYS ====================
+
+Product: Gaming Monitor 27" 165Hz
+SKU: MON-GAME-051
+Price: ₹18,999
+Category: Monitors
+Features: 27" QHD, 165Hz refresh rate, 1ms response time, FreeSync, HDR10, height adjustable stand
+Specifications: 2560x1440 resolution, IPS panel, DisplayPort + HDMI, 99% sRGB
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: 4K Monitor 32" Professional
+SKU: MON-4K-052
+Price: ₹32,999
+Category: Monitors
+Features: 32" 4K UHD, 99% Adobe RGB, USB-C 65W PD, height/pivot adjustable, HDR400
+Specifications: 3840x2160 resolution, IPS panel, USB-C + DP + HDMI, 60Hz
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: Portable Monitor 15.6" USB-C
+SKU: MON-PORT-053
+Price: ₹12,999
+Category: Monitors
+Features: 15.6" FHD, USB-C powered, ultra-slim, magnetic cover stand, plug & play
+Specifications: 1920x1080 resolution, IPS panel, USB-C + mini HDMI, 60Hz
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Curved Monitor 34" Ultrawide
+SKU: MON-CURVE-054
+Price: ₹28,999
+Category: Monitors
+Features: 34" ultrawide, 3440x1440, 100Hz, 1800R curvature, FreeSync, split screen software
+Specifications: VA panel, 21:9 aspect ratio, DisplayPort + HDMI, 100Hz
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Budget Monitor 24" FHD
+SKU: MON-BUDGET-055
+Price: ₹8,999
+Category: Monitors
+Features: 24" FHD, 75Hz, flicker-free, blue light filter, VESA mountable
+Specifications: 1920x1080 resolution, IPS panel, HDMI + VGA, 75Hz
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== WEBCAMS & STREAMING ====================
+
+Product: Webcam 4K Pro Streaming
+SKU: WC-4K-056
+Price: ₹8,999
+Category: Webcams
+Features: 4K 30fps, autofocus, dual microphones, 90° field of view, tripod mount, privacy shutter
+Specifications: Sony sensor, USB 3.0, Auto light correction, Windows & Mac
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Webcam 1080P HD
+SKU: WC-1080-057
+Price: ₹2,999
+Category: Webcams
+Features: 1080P 30fps, fixed focus, built-in mic, 70° FOV, plug & play, clip mount
+Specifications: 2MP sensor, USB 2.0, Manual focus, Universal clip
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Ring Light with Tripod Stand
+SKU: RL-STAND-058
+Price: ₹2,499
+Category: Streaming
+Features: 10" ring light, adjustable brightness, 3 color modes, phone holder, 5ft tripod stand
+Specifications: LED ring 10", Dimmable 10-100%, 3200K-5600K, Remote included
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black
+
+Product: USB Microphone Podcasting
+SKU: MIC-USB-059
+Price: ₹4,999
+Category: Streaming
+Features: Cardioid pattern, USB plug & play, mute button, volume control, pop filter included, shock mount
+Specifications: 20Hz-20kHz frequency response, USB-C connection, Zero latency monitoring
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: Green Screen Backdrop
+SKU: GS-BACK-060
+Price: ₹1,999
+Category: Streaming
+Features: 5x7ft size, wrinkle-resistant fabric, collapsible frame, portable carry bag
+Specifications: Polyester fabric, Pop-up frame, 5x7 feet, Chroma key green
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Green
+
+==================== STORAGE DEVICES ====================
+
+Product: External SSD 1TB USB-C
+SKU: SSD-EXT-061
+Price: ₹8,999
+Category: Storage
+Features: 1TB capacity, 1050MB/s read speed, USB-C 3.2 Gen 2, compact design, encryption support
+Specifications: 1TB SSD, USB-C, 1050MB/s read, 1000MB/s write, Shock resistant
+Warranty: 5 years
+Stock Status: In Stock
+Colors Available: Black, Blue
+
+Product: Portable HDD 2TB
+SKU: HDD-PORT-062
+Price: ₹5,499
+Category: Storage
+Features: 2TB capacity, USB 3.0, auto backup software, shock resistant, slim design
+Specifications: 2TB HDD, 5400 RPM, USB 3.0, Bus powered
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: NVMe SSD Internal 512GB
+SKU: SSD-INT-063
+Price: ₹4,999
+Category: Storage
+Features: 512GB capacity, PCIe Gen 3, 3500MB/s read, M.2 2280 form factor, DRAM cache
+Specifications: M.2 NVMe, 3500MB/s read, 3000MB/s write, TLC NAND
+Warranty: 5 years
+Stock Status: In Stock
+
+Product: USB Flash Drive 128GB
+SKU: USB-FLASH-064
+Price: ₹999
+Category: Storage
+Features: 128GB capacity, USB 3.0, compact design, metal body, keychain loop
+Specifications: USB 3.0, 100MB/s read, Retractable design
+Warranty: 5 years
+Stock Status: In Stock
+Colors Available: Silver, Black
+
+Product: MicroSD Card 256GB
+SKU: SD-MICRO-065
+Price: ₹1,999
+Category: Storage
+Features: 256GB capacity, U3 V30 A2, 100MB/s read, waterproof, shockproof, X-ray proof
+Specifications: UHS-I U3, 100MB/s read, 90MB/s write, Adapter included
+Warranty: 10 years
+Stock Status: In Stock
+
+Product: Network Attached Storage 4TB
+SKU: NAS-4TB-066
+Price: ₹24,999
+Category: Storage
+Features: 4TB capacity, 2-bay NAS, RAID support, remote access, media streaming, backup solution
+Specifications: Dual-core CPU, 2GB RAM, Gigabit Ethernet, Mobile apps
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== NETWORKING DEVICES ====================
+
+Product: WiFi Router Dual Band AC1900
+SKU: RT-AC1900-067
+Price: ₹3,999
+Category: Routers
+Features: AC1900 speeds, dual-band, 4 Gigabit LAN, USB 3.0, parental controls, guest network
+Specifications: 1900 Mbps combined, 3 external antennas, MU-MIMO, Beamforming
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Mesh WiFi System 3-Pack
+SKU: MESH-3PK-068
+Price: ₹14,999
+Category: Routers
+Features: Whole home coverage, tri-band, 3-pack covers 5000 sq ft, seamless roaming, easy setup app
+Specifications: AC2200 speeds, 3 units, Ethernet backhaul, Voice control compatible
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+Product: WiFi 6 Router AX3000
+SKU: RT-AX3000-069
+Price: ₹8,999
+Category: Routers
+Features: WiFi 6 (802.11ax), 3000 Mbps, OFDMA, MU-MIMO, 1.5GHz triple-core, USB 3.0
+Specifications: AX3000, 4 Gigabit LAN, WPA3 security, Lifetime free security
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: WiFi Range Extender AC1200
+SKU: EXT-AC1200-070
+Price: ₹1,799
+Category: WiFi Extenders
+Features: Extends WiFi coverage, dual-band AC1200, Gigabit port, LED signal indicator, one-button setup
+Specifications: 1200 Mbps, Wall plug design, Compatibility with any router
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+Product: Gigabit Switch 8-Port
+SKU: SW-8PORT-071
+Price: ₹1,499
+Category: Network Switches
+Features: 8 Gigabit ports, plug & play, metal housing, fanless design, desktop/wall mount
+Specifications: 8x 10/100/1000 Mbps ports, 16 Gbps switching capacity, IEEE 802.3az
+Warranty: Lifetime
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Powerline Adapter Kit
+SKU: PL-KIT-072
+Price: ₹3,499
+Category: Networking
+Features: AV1300, uses electrical wiring, 2-pack, Gigabit port, plug & play, 300m range
+Specifications: 1300 Mbps, Gigabit Ethernet, HomePlug AV2, Pass-through socket
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: White
+
+==================== COMPUTER COMPONENTS ====================
+
+Product: Graphics Card RTX 4060 8GB
+SKU: GPU-4060-073
+Price: ₹35,999
+Category: Graphics Cards
+Features: NVIDIA RTX 4060, 8GB GDDR6, ray tracing, DLSS 3, PCIe 4.0, dual fans
+Specifications: 8GB GDDR6, 3072 CUDA cores, 2.5GHz boost clock, 3x DisplayPort, 1x HDMI
+Warranty: 3 years
+Stock Status: In Stock
+
+Product: Motherboard B660M Gaming
+SKU: MB-B660-074
+Price: ₹12,999
+Category: Motherboards
+Features: Intel B660 chipset, LGA1700 socket, DDR4 support, PCIe 4.0, RGB headers, M.2 slots
+Specifications: Micro-ATX, 4x DIMM slots, 2x M.2, 6x SATA, 2.5Gb Ethernet
+Warranty: 3 years
+Stock Status: In Stock
+
+Product: RAM 16GB DDR4 3200MHz
+SKU: RAM-16GB-075
+Price: ₹4,999
+Category: RAM
+Features: 16GB (2x8GB), DDR4-3200, RGB lighting, XMP 2.0, low latency CL16, aluminum heatsink
+Specifications: DDR4, 3200MHz, CL16-18-18-38, 1.35V, RGB sync compatible
+Warranty: Lifetime
+Stock Status: In Stock
+Colors Available: Black with RGB
+
+Product: CPU Intel Core i5-12400F
+SKU: CPU-I5-076
+Price: ₹14,999
+Category: Processors
+Features: 6 cores 12 threads, 2.5GHz base, 4.4GHz turbo, LGA1700, 18MB cache, 65W TDP
+Specifications: 12th Gen, 6P cores, 18MB L3 cache, No integrated graphics
+Warranty: 3 years
+Stock Status: In Stock
+
+Product: CPU AMD Ryzen 5 5600X
+SKU: CPU-R5-077
+Price: ₹16,999
+Category: Processors
+Features: 6 cores 12 threads, 3.7GHz base, 4.6GHz boost, AM4 socket, 32MB cache, Wraith cooler
+Specifications: Zen 3, 35MB total cache, 65W TDP, PCIe 4.0
+Warranty: 3 years
+Stock Status: In Stock
+
+Product: CPU Cooler RGB Tower
+SKU: COOL-TOWER-078
+Price: ₹2,999
+Category: Cooling
+Features: RGB lighting, 120mm fan, copper heat pipes x4, universal socket, quiet operation
+Specifications: 120mm PWM fan, TDP 180W, Intel & AMD compatible, <28 dBA
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Power Supply 650W 80+ Gold
+SKU: PSU-650W-079
+Price: ₹5,999
+Category: Power Supplies
+Features: 650W, 80 Plus Gold, modular cables, silent fan, over-voltage protection, 10-year warranty
+Specifications: 650W, Single +12V rail, Modular design, 90% efficiency
+Warranty: 10 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: PC Case RGB Mid Tower
+SKU: CASE-RGB-080
+Price: ₹4,999
+Category: PC Cases
+Features: Tempered glass panel, 4x RGB fans included, cable management, dust filters, USB-C front panel
+Specifications: Mid-tower ATX, 360mm GPU clearance, 165mm CPU cooler height, USB-C Gen 2
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, White
+
+==================== GAMING ACCESSORIES ====================
+
+Product: Gaming Chair Ergonomic
+SKU: GC-ERGO-081
+Price: ₹15,999
+Category: Gaming Chairs
+Features: Ergonomic design, lumbar support, adjustable armrests, recline 180°, PU leather, 150kg capacity
+Specifications: Steel frame, Class 4 gas lift, 75mm PU casters, Removable pillows
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black/Red, Black/Blue, All Black
+
+Product: Gaming Desk 55" RGB
+SKU: GD-RGB-082
+Price: ₹12,999
+Category: Gaming Desks
+Features: 55" surface, carbon fiber texture, RGB lighting, cable management, cup holder, headphone hook
+Specifications: 55"x28" surface, Steel legs, Load capacity 100kg, Height adjustable
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Gaming Headset 7.1 Surround
+SKU: GH-7.1-083
+Price: ₹3,999
+Category: Gaming Headsets
+Features: 7.1 virtual surround, RGB lighting, noise-canceling mic, memory foam, 50mm drivers
+Specifications: USB connection, 50mm neodymium drivers, Detachable mic, Multi-platform
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, Black/Red
+
+Product: Gaming Controller Pro
+SKU: GC-PRO-084
+Price: ₹4,499
+Category: Controllers
+Features: Wireless & wired, programmable buttons, trigger locks, 40-hour battery, vibration feedback
+Specifications: Bluetooth + USB-C, Gyro sensor, Compatible with PC/Switch/Android
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White, Blue
+
+Product: Racing Wheel with Pedals
+SKU: RW-PEDAL-085
+Price: ₹24,999
+Category: Gaming Accessories
+Features: Force feedback, 900° rotation, pedal set included, gear shifter compatible, multi-platform
+Specifications: Hall effect sensors, Brushless motor, Desk clamp mount, PC/PS/Xbox compatible
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Gaming Mouse Pad XXL
+SKU: MP-XXL-086
+Price: ₹1,299
+Category: Gaming Accessories
+Features: 35"x15" size, anti-slip rubber base, smooth cloth surface, stitched edges, desk mat
+Specifications: 900x400x4mm, Machine washable, Non-slip rubber
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Black with RGB trim
+
+==================== AUDIO EQUIPMENT ====================
+
+Product: Soundbar 2.1 Channel
+SKU: SB-2.1-087
+Price: ₹8,999
+Category: Audio
+Features: 2.1 channel, wireless subwoofer, Bluetooth, HDMI ARC, optical input, 120W output
+Specifications: 120W total, 6.5" wireless subwoofer, Multiple connectivity options
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Bluetooth Speaker Portable
+SKU: BT-PORT-088
+Price: ₹2,999
+Category: Audio
+Features: 20W output, 360° sound, IPX7 waterproof, 24-hour battery, TWS pairing, built-in mic
+Specifications: 20W, Bluetooth 5.0, 5200mAh battery, USB-C charging
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Blue, Red
+
+Product: Studio Monitor Speakers Pair
+SKU: SM-PAIR-089
+Price: ₹18,999
+Category: Audio
+Features: 5" woofers, 75W each, balanced XLR/TRS inputs, front-facing bass port, acoustic isolation pads
+Specifications: 150W total, 53Hz-30kHz frequency response, Bi-amped Class A/B
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Wireless Turntable Vinyl Player
+SKU: TT-BT-090
+Price: ₹12,999
+Category: Audio
+Features: Bluetooth output, belt drive, built-in preamp, USB recording, 33/45 RPM, dust cover
+Specifications: Audio-Technica cartridge, RCA & USB outputs, Anti-skate control
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Wood finish
+
+Product: Karaoke Microphone Wireless
+SKU: MIC-KARAOKE-091
+Price: ₹1,999
+Category: Audio
+Features: Bluetooth speaker built-in, echo control, voice changer, LED lights, rechargeable battery
+Specifications: Bluetooth 5.0, 5-hour battery, 3.5mm aux input, SD card slot
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Rose Gold, Black, Blue
+
+==================== CABLES & ADAPTERS ====================
+
+Product: USB-C to USB-C Cable 100W
+SKU: CAB-C2C-092
+Price: ₹599
+Category: Cables
+Features: 100W PD charging, 6ft length, braided nylon, 480Mbps data transfer, USB 2.0
+Specifications: USB-C to USB-C, 100W/5A max, E-marker chip, Durable design
+Warranty: Lifetime
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: HDMI 2.1 Cable 8K 6ft
+SKU: CAB-HDMI-093
+Price: ₹899
+Category: Cables
+Features: 8K@60Hz, 4K@120Hz, eARC, HDR10+, Dolby Vision, 48Gbps bandwidth, braided
+Specifications: HDMI 2.1, Ultra High Speed, Gold-plated connectors
+Warranty: Lifetime
+Stock Status: In Stock
+Colors Available: Black
+
+Product: USB Hub 7-Port Powered
+SKU: HUB-7PORT-094
+Price: ₹1,499
+Category: Adapters
+Features: 7 USB 3.0 ports, individual switches, 36W power adapter, LED indicators, compact design
+Specifications: USB 3.0, 5Gbps transfer speed, BC 1.2 charging ports
+Warranty: 18 months
+Stock Status: In Stock
+Colors Available: Black
+
+Product: USB-C Hub 11-in-1
+SKU: HUB-C-11-095
+Price: ₹3,999
+Category: Adapters
+Features: 11 ports total, 4K HDMI, USB 3.0 x3, SD/microSD, USB-C PD 100W, Gigabit Ethernet
+Specifications: Aluminum body, 4K@30Hz HDMI, 100W pass-through charging
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Space Gray
+
+Product: DisplayPort to HDMI Adapter
+SKU: ADP-DP-HDMI-096
+Price: ₹699
+Category: Adapters
+Features: 4K@60Hz support, DisplayPort 1.2, HDMI 2.0, gold-plated connectors, plug & play
+Specifications: DP 1.2 to HDMI 2.0, 4K@60Hz, Audio support
+Warranty: Lifetime
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Audio Splitter 1 to 2
+SKU: SPL-AUDIO-097
+Price: ₹299
+Category: Adapters
+Features: 3.5mm splitter, gold-plated, share audio between 2 headphones, compact design
+Specifications: 3.5mm male to 2x 3.5mm female, Stereo audio
+Warranty: Lifetime
+Stock Status: In Stock
+Colors Available: Black
+
+==================== CAMERA EQUIPMENT ====================
+
+Product: DSLR Camera Entry Level
+SKU: CAM-DSLR-098
+Price: ₹42,999
+Category: Cameras
+Features: 24.1MP APS-C sensor, 18-55mm kit lens, 1080p video, WiFi, guided menu, beginner-friendly
+Specifications: 24.1MP CMOS, ISO 100-6400, 5fps continuous, 11-point AF
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Mirrorless Camera 26MP
+SKU: CAM-MIRRORLESS-099
+Price: ₹68,999
+Category: Cameras
+Features: 26MP full-frame sensor, 4K 60fps video, in-body stabilization, dual card slots, weather-sealed
+Specifications: 26MP BSI-CMOS, ISO 100-51200, 12fps continuous, 693-point AF
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: Action Camera 4K
+SKU: CAM-ACTION-100
+Price: ₹8,999
+Category: Cameras
+Features: 4K 30fps, 170° ultra-wide, waterproof 30m, image stabilization, touchscreen, WiFi
+Specifications: 4K@30fps, 12MP photos, 2" LCD touchscreen, 1050mAh battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Instant Camera Polaroid Style
+SKU: CAM-INSTANT-101
+Price: ₹6,999
+Category: Cameras
+Features: Instant photo printing, selfie mirror, creative filters, rechargeable battery, retro design
+Specifications: Instant film compatible, Auto exposure, Built-in flash
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White, Pink, Mint Green
+
+Product: Camera Lens 50mm f/1.8
+SKU: LENS-50MM-102
+Price: ₹12,999
+Category: Camera Accessories
+Features: Prime lens, f/1.8 aperture, portrait photography, full-frame compatible, compact & lightweight
+Specifications: 50mm focal length, f/1.8 max aperture, 7-blade diaphragm
+Warranty: 1 year
+Stock Status: In Stock
+Compatible: Canon EF, Nikon F, Sony E mounts
+
+Product: Camera Tripod Carbon Fiber
+SKU: TRIP-CARBON-103
+Price: ₹8,999
+Category: Camera Accessories
+Features: Carbon fiber legs, ball head, 66" max height, 17.6 lbs load capacity, travel bag included
+Specifications: 4-section legs, Center column, Bubble level, Quick release plate
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Camera Bag Backpack
+SKU: BAG-CAM-104
+Price: ₹4,999
+Category: Camera Accessories
+Features: Fits DSLR + 3-4 lenses, laptop compartment, rain cover, padded dividers, side access
+Specifications: Water-resistant, 15" laptop pocket, Tripod holder, Weatherproof zippers
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Gray
+
+==================== DRONES ====================
+
+Product: Drone 4K GPS
+SKU: DRONE-4K-105
+Price: ₹32,999
+Category: Drones
+Features: 4K camera, GPS positioning, 30-min flight time, follow me mode, return to home, obstacle avoidance
+Specifications: 4K@30fps camera, 3-axis gimbal, 7km range, Foldable design
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: FPV Racing Drone
+SKU: DRONE-FPV-106
+Price: ₹18,999
+Category: Drones
+Features: FPV goggles included, 120fps camera, acrobatic mode, durable frame, spare propellers
+Specifications: 1080p 120fps, 5.8GHz transmission, 20-min flight time
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black/Red
+
+Product: Mini Drone for Kids
+SKU: DRONE-MINI-107
+Price: ₹2,999
+Category: Drones
+Features: Compact size, 720p camera, one-key takeoff/landing, altitude hold, 10-min flight time, safe & fun
+Specifications: 720p camera, 2.4GHz remote, 50m range, LED lights
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Blue
+
+==================== SMART WEARABLES ====================
+
+Product: Smart Ring Fitness Tracker
+SKU: SR-FIT-108
+Price: ₹19,999
+Category: Wearables
+Features: Heart rate, sleep tracking, activity tracking, waterproof, 7-day battery, titanium body
+Specifications: Titanium construction, Bluetooth 5.0, Rechargeable, App compatible
+Warranty: 1 year
+Stock Status: In Stock
+Sizes: 6, 7, 8, 9, 10, 11, 12
+Colors Available: Silver, Black, Gold
+
+Product: Smart Glasses AR
+SKU: SG-AR-109
+Price: ₹24,999
+Category: Wearables
+Features: Augmented reality display, Bluetooth audio, voice assistant, notifications, hands-free calling
+Specifications: Micro-display, Open-ear audio, 8-hour battery, Prescription compatible
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Fitness Tracker Slim Band
+SKU: FT-SLIM-110
+Price: ₹1,999
+Category: Wearables
+Features: Step counter, heart rate, sleep tracking, 14-day battery, water resistant, OLED display
+Specifications: 0.87" OLED, 5ATM waterproof, Bluetooth 5.0, 90mAh battery
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Pink, Blue
+
+==================== PORTABLE GAMING ====================
+
+Product: Handheld Gaming Console Retro
+SKU: HG-RETRO-111
+Price: ₹5,999
+Category: Gaming
+Features: 10000+ retro games, 5" screen, 4-hour battery, save states, AV output to TV
+Specifications: 5" IPS display, 16GB storage, Rechargeable battery, Supports multiple emulators
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Transparent
+
+Product: Portable Gaming Device Modern
+SKU: PGD-MOD-112
+Price: ₹45,999
+Category: Gaming
+Features: 7" touchscreen, AMD processor, Windows 11, steam games compatible, 2 hours battery gaming
+Specifications: AMD Ryzen, 16GB RAM, 512GB SSD, 7" 800p display, WiFi 6
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+==================== SMART KITCHEN ====================
+
+Product: Smart Coffee Maker WiFi
+SKU: SK-COFFEE-113
+Price: ₹8,999
+Category: Smart Kitchen
+Features: WiFi control, schedule brewing, voice assistant compatible, thermal carafe, auto shut-off
+Specifications: 12-cup capacity, Programmable, Keep warm function, Filter included
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Stainless Steel
+
+Product: Smart Air Fryer 5L
+SKU: SK-FRYER-114
+Price: ₹6,999
+Category: Smart Kitchen
+Features: App control, 12 presets, 5L capacity, recipe suggestions, energy efficient, digital display
+Specifications: 1500W, Temperature control 80-200°C, Timer 60 min, Dishwasher safe basket
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Smart Scale Kitchen
+SKU: SK-SCALE-115
+Price: ₹1,499
+Category: Smart Kitchen
+Features: Bluetooth app, nutrition tracking, 22 lbs capacity, tare function, rechargeable, stainless steel
+Specifications: 0.1g precision, USB-C rechargeable, Auto-off, Unit conversion
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Stainless Steel
+
+==================== OFFICE EQUIPMENT ====================
+
+Product: All-in-One Printer WiFi
+SKU: PRT-AIO-116
+Price: ₹9,999
+Category: Printers
+Features: Print, scan, copy, WiFi & USB, mobile printing, auto duplex, color inkjet
+Specifications: 10ppm color, 4800x1200 dpi, Flatbed scanner, 100-sheet tray
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Label Printer Bluetooth
+SKU: PRT-LABEL-117
+Price: ₹3,999
+Category: Printers
+Features: Bluetooth connectivity, thermal printing, no ink needed, label sizes, battery powered
+Specifications: 203 DPI, Max 50mm width, Rechargeable battery, App control
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Document Scanner Portable
+SKU: SCN-PORT-118
+Price: ₹7,999
+Category: Scanners
+Features: WiFi scanning, auto-feed 50 sheets, duplex scan, PDF creation, portable design
+Specifications: 600 DPI, USB & WiFi, Scan to cloud, Rechargeable battery
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Laminator Machine A4
+SKU: LAM-A4-119
+Price: ₹2,499
+Category: Office
+Features: A4 size, hot & cold lamination, quick warm-up, ABS release button, 25 pouches included
+Specifications: 230mm/min speed, 3-5 min warm-up, Thermal lamination
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Paper Shredder Cross-Cut
+SKU: SHR-CROSS-120
+Price: ₹4,999
+Category: Office
+Features: Cross-cut, 12-sheet capacity, 20L bin, auto start/stop, overheat protection, quiet operation
+Specifications: P-4 security level, Shreds cards & staples, Continuous 5 min
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== ELECTRIC VEHICLES ACCESSORIES ====================
+
+Product: EV Home Charger 7kW
+SKU: EV-CHARGE-121
+Price: ₹34,999
+Category: EV Accessories
+Features: 7kW charging, Type 2 connector, WiFi monitoring, weatherproof IP65, cable management, app control
+Specifications: 32A output, 5m cable, WiFi enabled, Wall mounted
+Warranty: 3 years
+Stock Status: In Stock
+Colors Available: White
+
+Product: Portable EV Charger 3.5kW
+SKU: EV-PORT-122
+Price: ₹18,999
+Category: EV Accessories
+Features: Portable design, 3.5kW charging, LED display, multiple adapters, carry case, surge protection
+Specifications: 16A max, Type 2 + Type 1, 240V AC, 6m cable
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== BABY & KIDS TECH ====================
+
+Product: Baby Monitor Video WiFi
+SKU: BABY-MON-123
+Price: ₹7,999
+Category: Baby Tech
+Features: 1080P video, two-way audio, night vision, temperature sensor, lullabies, pan/tilt/zoom
+Specifications: 1080P camera, 360° pan, WiFi 2.4GHz, Mobile app control
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Kids Smartwatch GPS
+SKU: KIDS-SW-124
+Price: ₹4,999
+Category: Kids Tech
+Features: GPS tracking, SOS button, voice & video calls, games, camera, parental controls, waterproof
+Specifications: 1.4" touchscreen, 4G connectivity, 680mAh battery, IP67 waterproof
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Blue, Pink, Green
+
+Product: Educational Robot Coding
+SKU: ROBOT-CODE-125
+Price: ₹6,999
+Category: Kids Tech
+Features: Learn coding, voice interaction, obstacle avoidance, programmable actions, educational games
+Specifications: Bluetooth control, Rechargeable battery, Mobile app programming, Ages 6+
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White/Blue
+
+==================== HEALTH & FITNESS TECH ====================
+
+Product: Smart Body Composition Scale
+SKU: SCALE-BODY-126
+Price: ₹2,999
+Category: Health Tech
+Features: 15 body metrics, WiFi & Bluetooth, unlimited users, baby mode, pet mode, app sync
+Specifications: BIA technology, 400 lbs capacity, Rechargeable, Sync with Apple Health/Google Fit
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White, Black
+
+Product: Blood Pressure Monitor Smart
+SKU: BP-MON-127
+Price: ₹3,499
+Category: Health Tech
+Features: Bluetooth app sync, irregular heartbeat detection, 2-user memory, large LCD, voice guide
+Specifications: Accuracy ±3 mmHg, Cuff 22-42cm, 240 memory storage, USB rechargeable
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+Product: Smart Thermometer Infrared
+SKU: THERM-IR-128
+Price: ₹1,999
+Category: Health Tech
+Features: Non-contact infrared, 1-second reading, fever alarm, memory recall 32 readings, silent mode
+Specifications: Accuracy ±0.2°C, Forehead & object mode, LCD backlight, Auto shut-off
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Massage Gun Percussion
+SKU: MSG-GUN-129
+Price: ₹7,999
+Category: Health Tech
+Features: 6 massage heads, 20 speed levels, 3200 RPM, quiet operation, LCD touchscreen, carry case
+Specifications: 2400mAh battery, 3-hour runtime, 6 attachment heads, 35dB quiet
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Gray
+
+==================== HOME SECURITY ====================
+
+Product: Video Doorbell Pro WiFi
+SKU: DOOR-PRO-130
+Price: ₹8,999
+Category: Security
+Features: 2K video, 160° view, two-way audio, motion detection, cloud storage, night vision, chime included
+Specifications: 2K resolution, WiFi 2.4/5GHz, Rechargeable battery, Weatherproof IP65
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Smart Lock Fingerprint
+SKU: LOCK-FP-131
+Price: ₹14,999
+Category: Security
+Features: Fingerprint + PIN + Card + App + Key, auto-lock, tamper alert, activity log, weather resistant
+Specifications: 150 fingerprints capacity, Zinc alloy, Bluetooth + WiFi, Backup battery
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: Security Camera System 4-Pack
+SKU: CAM-4PACK-132
+Price: ₹24,999
+Category: Security
+Features: 4 cameras + NVR, 1080P, night vision 100ft, motion detection, remote viewing, weatherproof
+Specifications: 1080P cameras, 1TB HDD included, Mobile app, Email alerts
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+Product: Motion Sensor Smart
+SKU: SENSOR-MOT-133
+Price: ₹999
+Category: Security
+Features: WiFi connectivity, wide detection angle, adjustable sensitivity, battery powered, automation trigger
+Specifications: 120° detection, 10m range, WiFi 2.4GHz, 2xAAA batteries
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Smart Alarm System Kit
+SKU: ALARM-KIT-134
+Price: ₹12,999
+Category: Security
+Features: Hub + 4 sensors + 2 motion detectors, app control, siren, expandable, easy DIY installation
+Specifications: WiFi enabled hub, Wireless sensors, 100dB siren, Battery backup
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+==================== AUTOMOTIVE TECH ====================
+
+Product: Dash Cam Dual Camera 4K
+SKU: DASH-4K-135
+Price: ₹9,999
+Category: Automotive
+Features: 4K front + 1080P rear, night vision, GPS, parking mode, G-sensor, loop recording, 128GB included
+Specifications: 4K@30fps front, 170° + 140° view angle, WiFi app control
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Car Bluetooth FM Transmitter
+SKU: CAR-BT-136
+Price: ₹899
+Category: Automotive
+Features: Bluetooth music streaming, hands-free calling, dual USB charging, FM transmission, LED display
+Specifications: Bluetooth 5.0, USB 3.1A total output, Frequency 87.5-108.0MHz
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: OBD2 Scanner Bluetooth
+SKU: OBD-BT-137
+Price: ₹1,999
+Category: Automotive
+Features: Read & clear error codes, real-time data, emissions test, fuel economy, works with app
+Specifications: OBD2 compatible, Bluetooth connection, iOS & Android apps
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Tire Pressure Monitoring System
+SKU: TPMS-138
+Price: ₹4,999
+Category: Automotive
+Features: Real-time monitoring, solar powered display, 4 external sensors, visual/audio alerts, easy install
+Specifications: Wireless sensors, LCD display, Temperature monitoring, Solar + USB charging
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== CLEANING TECH ====================
+
+Product: Robot Vacuum with Mop
+SKU: VAC-ROBOT-139
+Price: ₹18,999
+Category: Cleaning
+Features: Vacuum & mop combo, app control, auto charging, 2000Pa suction, mapping, voice control
+Specifications: 2000Pa suction, 300ml dustbin, 250ml water tank, 2600mAh battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Handheld Vacuum Cordless
+SKU: VAC-HAND-140
+Price: ₹4,999
+Category: Cleaning
+Features: Cordless, 120W power, HEPA filter, 30-min runtime, LED light, multiple attachments
+Specifications: 120W suction, 0.5L dustbin, 30-min runtime, USB-C charging
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Air Purifier HEPA Smart
+SKU: PURIFY-141
+Price: ₹12,999
+Category: Cleaning
+Features: True HEPA filter, WiFi app control, air quality sensor, 3-stage filtration, quiet sleep mode
+Specifications: CADR 350 m³/h, Coverage 400 sq ft, 3-stage filter, <24dB sleep mode
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+==================== MISCELLANEOUS TECH ====================
+
+Product: E-Reader 7" Backlit
+SKU: EREADER-7-142
+Price: ₹9,999
+Category: E-Readers
+Features: 7" E-ink display, adjustable warm light, 8GB storage, waterproof IPX8, 6-week battery
+Specifications: 7" 300 PPI display, 8GB storage, WiFi, Holds 1000+ books
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Digital Photo Frame 10"
+SKU: FRAME-10-143
+Price: ₹6,999
+Category: Digital Frames
+Features: 10" IPS touchscreen, WiFi cloud upload, auto-rotate, slideshow, motion sensor, remote app
+Specifications: 1920x1200 resolution, 16GB storage, WiFi enabled, Wall mountable
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White, Wood finish
+
+Product: Portable Projector LED
+SKU: PROJ-PORT-144
+Price: ₹14,999
+Category: Projectors
+Features: 1080P support, 200" display, built-in speaker, WiFi & Bluetooth, keystone correction, 3-hour battery
+Specifications: Native 720P, 5000 lumens, HDMI/USB/WiFi, Rechargeable battery
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Smart Pen Digital
+SKU: PEN-SMART-145
+Price: ₹8,999
+Category: Writing
+Features: Converts handwriting to digital, works on regular paper, 100-hour battery, app sync, 1GB storage
+Specifications: Bluetooth sync, 1024 pressure levels, Rechargeable, iOS & Android apps
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Binoculars Digital Camera
+SKU: BIN-CAM-146
+Price: ₹7,999
+Category: Optics
+Features: 12x optical zoom, built-in camera, video recording, 2" LCD screen, image stabilization
+Specifications: 12x optical zoom, 5MP photos, 720P video, SD card slot
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Metal Detector Professional
+SKU: METAL-DET-147
+Price: ₹11,999
+Category: Hobbyist
+Features: Waterproof coil, LCD display, discrimination mode, adjustable length, headphone jack, carry bag
+Specifications: Detection depth 10", Waterproof 10" coil, LCD with backlight, Adjustable 43-53"
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black/Yellow
+
+Product: Weather Station WiFi
+SKU: WEATHER-148
+Price: ₹6,999
+Category: Home Tech
+Features: Indoor/outdoor sensors, WiFi upload, temperature/humidity/pressure, rainfall gauge, wind speed
+Specifications: Wireless range 300ft, WiFi 2.4GHz, Mobile app, Color display
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Night Vision Monocular
+SKU: NV-MONO-149
+Price: ₹24,999
+Category: Optics
+Features: 4K digital night vision, 5x optical zoom, photo & video, 850nm IR illuminator, 4" LCD screen
+Specifications: 4K video recording, 32GB included, 5x zoom, 2500mAh battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Telescope Astronomical
+SKU: TELE-ASTRO-150
+Price: ₹16,999
+Category: Optics
+Features: 70mm aperture, 400mm focal length, smartphone adapter, tripod, finder scope, multiple eyepieces
+Specifications: 70mm aperture, 16x-200x magnification, Aluminum tripod, Phone adapter
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black/White
+
+==================== VR & AR ====================
+
+Product: VR Headset Standalone
+SKU: VR-STAND-151
+Price: ₹32,999
+Category: VR/AR
+Features: Standalone VR, no PC needed, 2K per eye, 6DOF tracking, hand controllers, 128GB storage
+Specifications: Snapdragon processor, 6GB RAM, 90Hz refresh, IPD adjustment
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: VR Headset PC Gaming
+SKU: VR-PC-152
+Price: ₹45,999
+Category: VR/AR
+Features: PC VR headset, 2880x1600 resolution, 120Hz, lighthouse tracking, steam VR compatible, premium audio
+Specifications: LCD panels, 120Hz refresh, Base stations included, Premium headphones
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: VR Treadmill Gaming
+SKU: VR-TREAD-153
+Price: ₹89,999
+Category: VR/AR
+Features: Omni-directional movement, full body tracking, adjustable height, safety harness, foldable design
+Specifications: Platform diameter 48", Weight capacity 265 lbs, Bluetooth connectivity
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== MUSICAL INSTRUMENTS & AUDIO ====================
+
+Product: Digital Piano 88-Key
+SKU: PIANO-88-154
+Price: ₹28,999
+Category: Musical Instruments
+Features: 88 weighted keys, 128 polyphony, MIDI/USB, built-in speakers, headphone jack, sustain pedal
+Specifications: Graded hammer action, 300 tones, Recording function, Split & layer modes
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: MIDI Keyboard Controller 49-Key
+SKU: MIDI-49-155
+Price: ₹9,999
+Category: Musical Instruments
+Features: 49 velocity-sensitive keys, drum pads, knobs & faders, USB bus powered, DAW control
+Specifications: USB MIDI, 16 pads, 8 knobs, Software bundle included
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Audio Interface 2-Channel
+SKU: AUDIO-INT-156
+Price: ₹8,999
+Category: Audio Production
+Features: 2 XLR/TRS inputs, 24-bit/192kHz, phantom power, direct monitoring, USB-C, compact design
+Specifications: 2x combo inputs, 2x line outputs, MIDI I/O, Bus powered
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, Red
+
+Product: Studio Headphones Professional
+SKU: HP-STUDIO-157
+Price: ₹14,999
+Category: Audio
+Features: Open-back design, reference sound, detachable cable, velour earpads, 38 ohm impedance
+Specifications: 5Hz-35kHz frequency response, 38 ohms, 3m coiled cable, 3.5mm & 6.35mm adapters
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== ELECTRIC SCOOTERS & BIKES ====================
+
+Product: Electric Scooter Commuter
+SKU: SCOOT-ELEC-158
+Price: ₹24,999
+Category: E-Mobility
+Features: 25 km range, 25 km/h max speed, 350W motor, foldable, LED display, disc brakes, app connectivity
+Specifications: 350W motor, 36V 7.5Ah battery, 100kg max load, 8.5" pneumatic tires
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Electric Bike Folding
+SKU: BIKE-ELEC-159
+Price: ₹42,999
+Category: E-Mobility
+Features: 40 km range, 250W motor, pedal assist + throttle, foldable, 20" wheels, LED lights, rear rack
+Specifications: 250W motor, 36V 10Ah battery, 5 assist levels, Disc brakes
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: Hoverboard Self-Balancing
+SKU: HOVER-160
+Price: ₹12,999
+Category: E-Mobility
+Features: 6.5" wheels, LED lights, Bluetooth speaker, self-balancing, 12 km range, carry bag
+Specifications: 500W dual motors, Max 100kg, 10 km/h speed, UL certified battery
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Black, Blue, Red, RGB
+
+==================== SOLAR & ECO TECH ====================
+
+Product: Solar Power Bank 26800mAh
+SKU: SOLAR-PB-161
+Price: ₹3,999
+Category: Solar Tech
+Features: 26800mAh capacity, solar panel, 3 USB outputs, flashlight, waterproof, carabiner
+Specifications: Solar 1.5W, USB 18W output, 4 LED indicators, IP66 waterproof
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Orange
+
+Product: Solar Security Light Motion
+SKU: SOLAR-LIGHT-162
+Price: ₹1,999
+Category: Solar Tech
+Features: Motion sensor, 100 LED, solar powered, waterproof IP65, 3 modes, wireless installation
+Specifications: 100 LEDs, 1200 lumens, 120° sensor angle, 10m range
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Solar Charger 21W Foldable
+SKU: SOLAR-CH-163
+Price: ₹4,999
+Category: Solar Tech
+Features: 21W output, 3 USB ports, foldable panels, portable, SunPower cells, auto-restart
+Specifications: 21W max, 3x USB 5V/3A, 4 panels foldable, Weatherproof
+Warranty: 18 months
+Stock Status: In Stock
+Colors Available: Black
+
+==================== PET TECH ====================
+
+Product: Automatic Pet Feeder Smart
+SKU: PET-FEED-164
+Price: ₹6,999
+Category: Pet Tech
+Features: WiFi app control, scheduled feeding, portion control, voice recording, 6L capacity, low food alert
+Specifications: 6L capacity, 10s voice recording, Stainless steel bowl, Battery backup
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Pet Camera Treat Dispenser
+SKU: PET-CAM-165
+Price: ₹8,999
+Category: Pet Tech
+Features: 1080P camera, two-way audio, treat dispenser, night vision, bark alert, pet activity tracking
+Specifications: 1080P HD, WiFi 2.4GHz, 100-treat capacity, 160° wide angle
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: GPS Pet Tracker Collar
+SKU: PET-GPS-166
+Price: ₹4,999
+Category: Pet Tech
+Features: Real-time GPS tracking, geofencing, activity monitoring, waterproof, 5-day battery, mobile app
+Specifications: GPS + LTE, IP67 waterproof, Lightweight 25g, Subscription required
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Blue
+
+==================== GARDENING TECH ====================
+
+Product: Smart Irrigation Controller WiFi
+SKU: GARDEN-IRR-167
+Price: ₹7,999
+Category: Garden Tech
+Features: WiFi control, 8 zones, weather-based watering, water savings, rain skip, app schedules
+Specifications: 8 zones, Indoor/outdoor, WiFi 2.4GHz, Voice control compatible
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: White
+
+Product: Soil Sensor Smart 4-in-1
+SKU: GARDEN-SOIL-168
+Price: ₹2,999
+Category: Garden Tech
+Features: Measures moisture, light, fertility, temperature, Bluetooth app, indoor/outdoor, rechargeable
+Specifications: Bluetooth 4.2, Rechargeable battery, IP65 waterproof, Mobile app
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Green
+
+==================== PRODUCTIVITY TOOLS ====================
+
+Product: E-Ink Writing Tablet 10"
+SKU: EINK-TAB-169
+Price: ₹5,999
+Category: Productivity
+Features: 10" E-ink display, stylus pen, erase button, cloud sync, PDF annotation, 3-week battery
+Specifications: 10.3" E-ink display, 4GB RAM, 64GB storage, WiFi, USB-C
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Presentation Clicker Laser
+SKU: PRESENT-170
+Price: ₹1,299
+Category: Productivity
+Features: Wireless presenter, laser pointer, hyperlink navigation, 100ft range, rechargeable battery
+Specifications: 2.4GHz wireless, Red laser, USB-C rechargeable, Plug & play
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+==================== TRANSLATION & LANGUAGE ====================
+
+Product: AI Translator Device Pocket
+SKU: TRANS-AI-171
+Price: ₹12,999
+Category: Translation
+Features: 138 languages, voice + camera translation, offline mode, WiFi + 4G, touchscreen, conversation mode
+Specifications: 3.0" touchscreen, 4G connectivity, 8GB storage, 1780mAh battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White, Black
+
+==================== LASER DEVICES ====================
+
+Product: Laser Engraver Desktop
+SKU: LASER-ENG-172
+Price: ₹32,999
+Category: Maker Tools
+Features: 5.5W laser, 150x150mm area, WiFi control, safety goggles, wood/leather/acrylic compatible
+Specifications: 5500mW laser, 0.06mm precision, USB + WiFi, Software included
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black/Orange
+
+Product: Laser Measure 100M
+SKU: LASER-MEAS-173
+Price: ₹3,999
+Category: Tools
+Features: 100M range, area/volume calculation, Pythagoras function, LCD display, ±2mm accuracy
+Specifications: 100m range, IP54 dust/water resistant, Memory storage, Auto calibration
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black/Yellow
+
+==================== 3D PRINTING ====================
+
+Product: 3D Printer FDM Entry Level
+SKU: 3DP-ENTRY-174
+Price: ₹18,999
+Category: 3D Printing
+Features: 220x220x250mm build volume, heated bed, resume printing, auto-leveling, touchscreen
+Specifications: FDM technology, PLA/ABS/PETG compatible, 0.1mm layer resolution, SD card
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: 3D Printer Resin High Detail
+SKU: 3DP-RESIN-175
+Price: ₹28,999
+Category: 3D Printing
+Features: 4K mono LCD, 135x76x155mm volume, 0.01mm precision, fast printing, UV resin compatible
+Specifications: 4K resolution, Mono LCD, USB connectivity, Resin vat included
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Orange/Black
+
+Product: 3D Printing Pen
+SKU: 3DP-PEN-176
+Price: ₹2,499
+Category: 3D Printing
+Features: Low temperature, safe for kids, PLA/PCL filament, OLED display, rechargeable battery
+Specifications: 3 speed modes, USB-C charging, Temperature control, 15 color filaments included
+Warranty: 6 months
+Stock Status: In Stock
+Colors Available: Blue, Pink
+
+==================== INDUSTRIAL & PROFESSIONAL ====================
+
+Product: Thermal Camera Imaging
+SKU: THERMAL-CAM-177
+Price: ₹45,999
+Category: Professional
+Features: 320x240 IR resolution, -20°C to 400°C range, thermal & visual dual cameras, PC software
+Specifications: 320x240 thermal, 8MP visual, Multiple color palettes, Rechargeable battery
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black/Yellow
+
+Product: Oscilloscope Digital 2-Channel
+SKU: OSCOPE-178
+Price: ₹12,999
+Category: Professional
+Features: 2 channels, 100MHz bandwidth, 1GSa/s, 7" color display, USB connectivity, waveform storage
+Specifications: 100MHz bandwidth, 1M memory depth, FFT analysis, Auto measurements
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== NOVELTY & GADGETS ====================
+
+Product: Levitating Bluetooth Speaker
+SKU: LEV-SPEAK-179
+Price: ₹5,999
+Category: Gadgets
+Features: Magnetic levitation, 360° sound, LED lights, Bluetooth 5.0, touch controls, decorative
+Specifications: 5W speaker, Bluetooth 5.0, Levitation height 10mm, 8-hour battery
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: Smart LED Moon Lamp
+SKU: MOON-LAMP-180
+Price: ₹1,999
+Category: Gadgets
+Features: 16 colors, touch control, rechargeable, 3D printed texture, dimmable, remote control
+Specifications: 15cm diameter, 16 RGB colors, USB rechargeable, 8-hour runtime
+Warranty: 6 months
+Stock Status: In Stock
+Sizes: 10cm, 15cm, 20cm
+
+==================== EMERGENCY & SURVIVAL ====================
+
+Product: Emergency Radio Solar Crank
+SKU: EMERG-RADIO-181
+Price: ₹2,999
+Category: Emergency
+Features: Solar + crank + battery power, AM/FM/NOAA weather, flashlight, power bank, SOS alarm
+Specifications: 2000mAh battery, Solar panel, Hand crank, USB output 5V/1A
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Red, Yellow
+
+Product: Portable Jump Starter 2000A
+SKU: JUMP-START-182
+Price: ₹6,999
+Category: Automotive
+Features: 2000A peak current, jump starts 8.0L gas engines, USB QC 3.0, LED flashlight, 20000mAh
+Specifications: 20000mAh capacity, Jump starts up to 40 times, Safety features, Carry case
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, Red
+
+==================== FINAL PRODUCTS ====================
+
+Product: Wireless Charging Stand 3-in-1
+SKU: CH-3IN1-183
+Price: ₹3,999
+Category: Chargers
+Features: Charges phone + watch + earbuds, foldable design, fast charging 15W, LED indicator, travel-friendly
+Specifications: 15W phone charging, Watch & earbuds compatible, USB-C input, Foldable
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, White
+
+Product: Smart Glasses Reading
+SKU: GLASSES-READ-184
+Price: ₹9,999
+Category: Wearables
+Features: Blue light blocking, voice assistant, open-ear audio, UV protection, prescription-ready
+Specifications: Bluetooth 5.0, 6-hour battery, IP54 rated, Prescription lens compatible
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Tortoise
+
+Product: Digital Notepad Smart
+SKU: NOTE-SMART-185
+Price: ₹6,999
+Category: Productivity
+Features: Digitizes handwriting, regular paper, cloud sync, 1GB memory, rechargeable, one-button sync
+Specifications: Bluetooth sync, 1024 pressure levels, 50-page memory, USB-C charging
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Portable Monitor Touchscreen 15.6"
+SKU: MON-TOUCH-186
+Price: ₹16,999
+Category: Monitors
+Features: 15.6" touchscreen, USB-C single cable, 1080P, HDR, built-in speakers, auto-rotate
+Specifications: 1920x1080 IPS touchscreen, USB-C + mini HDMI, 60Hz, 5ms response
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Smart Bird Feeder Camera
+SKU: BIRD-CAM-187
+Price: ₹7,999
+Category: Outdoor Tech
+Features: 1080P camera, AI bird recognition, solar powered, weather alerts, photo/video capture, app notifications
+Specifications: 1080P camera, Solar + battery backup, WiFi 2.4GHz, SD card slot
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Green
+
+Product: Portable Espresso Maker
+SKU: COFFEE-PORT-188
+Price: ₹4,999
+Category: Portable Tech
+Features: Battery operated, 20 bar pressure, works with ground coffee & pods, travel case, auto shut-off
+Specifications: Rechargeable battery, 80ml capacity, 3-4 espressos per charge, USB-C charging
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black, Silver
+
+Product: UV Sanitizer Box Multi-Function
+SKU: UV-SAN-189
+Price: ₹2,999
+Category: Health Tech
+Features: UV-C sterilization, aromatherapy, wireless charging, large capacity, auto shut-off, 99.9% effective
+Specifications: UV-C LED, 10W wireless charging, 8-minute cycle, Fits phones/keys/jewelry
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: White
+
+Product: Smart Mirror Bathroom LED
+SKU: MIRROR-SMART-190
+Price: ₹8,999
+Category: Smart Home
+Features: Anti-fog, dimmable LED, touch controls, magnification spot, weather display, Bluetooth speaker
+Specifications: 24" round/rectangular, 3 color temperatures, IP44 waterproof, Memory function
+Warranty: 2 years
+Stock Status: In Stock
+Shapes: Round, Rectangle
+
+Product: Wine Aerator Electric
+SKU: WINE-AER-191
+Price: ₹3,499
+Category: Kitchen Tech
+Features: One-touch aeration, USB rechargeable, fits all bottles, drip-free, LED indicator, portable
+Specifications: Rechargeable battery, 30-bottle capacity, Food-grade materials, Easy clean
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Silver, Black
+
+Product: Digital Caliper Bluetooth
+SKU: CALIPER-BT-192
+Price: ₹2,499
+Category: Tools
+Features: 0.01mm accuracy, Bluetooth data transfer, stainless steel, extra-large LCD, mm/inch switching
+Specifications: 0-150mm range, Bluetooth 5.0, IP54 rated, Auto shut-off
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Silver
+
+Product: Portable Air Compressor
+SKU: COMP-PORT-193
+Price: ₹3,999
+Category: Automotive
+Features: Cordless, digital display, auto shut-off, LED light, 150 PSI max, inflates tires/balls/toys
+Specifications: 6000mAh battery, 150 PSI max, Digital LCD, 4 nozzles included
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black, Orange
+
+Product: Smart Luggage Tracker GPS
+SKU: LUG-TRACK-194
+Price: ₹3,999
+Category: Travel Tech
+Features: Global GPS tracking, 1-year battery, geofence alerts, movement alerts, waterproof, compact
+Specifications: GPS + LTE, IP67 waterproof, Replaceable battery, Mobile app
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Posture Corrector Smart Wearable
+SKU: POSTURE-195
+Price: ₹4,999
+Category: Health Tech
+Features: Vibration reminders, tracks posture, app analytics, lightweight, adjustable, rechargeable
+Specifications: Bluetooth 5.0, 30-day battery, Vibration motor, Adjustable size
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Sleep Headphones Bluetooth
+SKU: SLEEP-HP-196
+Price: ₹1,999
+Category: Audio
+Features: Ultra-thin speakers, soft headband, wireless, 10-hour battery, washable, sleep-friendly
+Specifications: Bluetooth 5.0, 10-hour battery, Washable headband, Ultra-thin speakers
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Gray, Black
+
+Product: Smartphone Gimbal Stabilizer
+SKU: GIMBAL-197
+Price: ₹6,999
+Category: Camera Accessories
+Features: 3-axis stabilization, foldable, face tracking, panorama mode, 12-hour runtime, app control
+Specifications: 3-axis motorized, 280g max payload, Bluetooth app control, Foldable design
+Warranty: 1 year
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Wireless HDMI Transmitter Kit
+SKU: HDMI-WIRELESS-198
+Price: ₹8,999
+Category: AV Equipment
+Features: 4K@30Hz, 30m range, plug & play, zero latency, transmitter + receiver, IR remote extender
+Specifications: 4K@30Hz support, 2.4/5GHz dual-band, 30m range, HDCP compliant
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Document Camera Overhead
+SKU: DOC-CAM-199
+Price: ₹7,999
+Category: Professional
+Features: 1080P camera, LED lights, auto-focus, USB plug & play, foldable arm, perfect for teaching/demos
+Specifications: 8MP sensor, USB video, LED ring light, A3 scanning area
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+Product: Smart Bike Lock Fingerprint
+SKU: BIKE-LOCK-200
+Price: ₹4,999
+Category: Security
+Features: Fingerprint unlock, 20 fingerprints, USB rechargeable, IP67 waterproof, alarm, hardened steel
+Specifications: Fingerprint + App backup, 120dB alarm, 30-day battery, Hardened steel shackle
+Warranty: 2 years
+Stock Status: In Stock
+Colors Available: Black
+
+==================== COMPANY POLICIES & SUPPORT ====================
+
+Return Policy: 
+- 7-day no-questions-asked return policy for all products
+- Products must be in original packaging with all accessories
+- Refund processed in 5-7 business days after receiving the returned item
+- Return shipping free for defective items, customer pays for change-of-mind returns
+- Extended 15-day return window during festive seasons
+
+Warranty Information:
+- All products come with manufacturer warranty as specified
+- Extended warranty available for purchase on select products
+- Warranty covers manufacturing defects only
+- Physical damage, water damage, and misuse not covered
+- Onsite warranty available for large appliances and TVs
+
+Support Information:
+- Customer Support: Mon-Sat, 9AM-6PM IST
+- Email: support@techgear.com
+- Phone: 1800-123-4567 (Toll-free)
+- Live Chat: Available on website during business hours
+- WhatsApp Support: +91-98765-43210
+- Average response time: 2-4 hours
+
+Shipping Information:
+- Free shipping on orders above ₹1,000
+- Standard delivery: 3-5 business days
+- Express delivery: 1-2 business days (additional charges apply)
+- Same-day delivery available in select metro cities
+- Order tracking available via email and SMS
+
+Payment Options:
+- Credit/Debit Cards (Visa, Mastercard, Rupay, Amex)
+- UPI (Google Pay, PhonePe, Paytm)
+- Net Banking (All major banks)
+- Cash on Delivery (COD) available
+- EMI options available on orders above ₹5,000
+
+Corporate Bulk Orders:
+- Special pricing for bulk orders (10+ units)
+- Dedicated account manager for corporate clients
+- Customization options available
+- Extended payment terms for registered businesses
+- GST invoicing available
+- Contact: corporate@techgear.com
+
+Product Installation & Setup:
+- Free installation service for TVs above 43"
+- Free setup for laptops and desktops
+- Paid installation available for smart home devices
+- Video tutorials available on YouTube channel
+- Remote assistance via TeamViewer/AnyDesk
 

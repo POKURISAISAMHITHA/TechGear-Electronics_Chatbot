@@ -1,0 +1,74 @@
+{
+  "total_tests": 6,
+  "passed": 6,
+  "failed": 0,
+  "errors": 0,
+  "response_times": [
+    4.543376207351685,
+    4.280807018280029,
+    3.555058002471924,
+    3.5355968475341797,
+    3.7465198040008545,
+    1.6361119747161865
+  ],
+  "category_results": {
+    "product_query": [
+      {
+        "status": "success",
+        "query": "What smartwatches do you have?",
+        "answer": "SmartWatch Pro X, SmartWatch Classic Gold, and SmartWatch Ultra Sport.",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 4.543376207351685
+      },
+      {
+        "status": "success",
+        "query": "Show me all laptops",
+        "answer": "MacBook Style Laptop 13, Laptop UltraBook Pro 14, Budget Laptop Essential 15, and 2-in-1 Convertible Laptop are available.",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 4.280807018280029
+      }
+    ],
+    "feature_query": [
+      {
+        "status": "success",
+        "query": "Tell me about the SmartWatch Pro X features",
+        "answer": "It includes a heart rate monitor, GPS tracking, 7-day battery life, water resistance up to 50m, AMOLED display, sleep tracking, stress monitoring, and over 100 workout modes.",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 3.555058002471924
+      }
+    ],
+    "price_query": [
+      {
+        "status": "success",
+        "query": "How much does the UltraBook Pro 15 cost?",
+        "answer": "Information not available",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 3.5355968475341797
+      }
+    ],
+    "policy_query": [
+      {
+        "status": "success",
+        "query": "What is your return policy?",
+        "answer": "We offer a 7-day no-questions-asked return policy for all products, which must be in original packaging with all accessories. An extended 15-day return window is available during festive seasons.",
+        "category": "returns",
+        "routed_to": "rag_responder",
+        "response_time": 3.7465198040008545
+      }
+    ],
+    "invalid_query": [
+      {
+        "status": "success",
+        "query": "What's the weather today?",
+        "answer": "Your query requires human support. Please contact our support team:\n\n\ud83d\udce7 Email: support@techgear.com\n\ud83d\udd50 Hours: Mon-Sat, 9AM-6PM IST\n\nWe'll get back to you as soon as possible!",
+        "category": "unknown",
+        "routed_to": "escalation",
+        "response_time": 1.6361119747161865
+      }
+    ]
+  }
+}

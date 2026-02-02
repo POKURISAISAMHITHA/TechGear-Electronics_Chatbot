@@ -1,0 +1,82 @@
+version: '3.8'
+
+# ============================================================================
+# TechGear Electronics Chatbot - Docker Compose Configuration
+# ============================================================================
+
+services:
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    
+    container_name: techgear-chatbot
+    
+    # Port mapping
+    ports:
+      - "8000:8000"
+    
+    # Environment variables
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - HOST=0.0.0.0
+      - PORT=8000
+      - PYTHONUNBUFFERED=1
+    
+    # Volume mounts
+    volumes:
+      # Persist ChromaDB data
+      - ./chroma_db:/app/chroma_db
+      # Persist logs
+      - ./logs:/app/logs
+      # Mount product info (optional - for easy updates)
+      - ./product_info.txt:/app/product_info.txt:ro
+    
+    # Restart policy
+    restart: unless-stopped
+    
+    # Health check
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    
+    # Resource limits (adjust based on your needs)
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '1'
+          memory: 1G
+    
+    # Logging configuration
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    
+    # Networks
+    networks:
+      - chatbot-network
+
+# ============================================================================
+# Networks
+# ============================================================================
+networks:
+  chatbot-network:
+    driver: bridge
+
+# ============================================================================
+# Volumes (optional - for named volumes instead of bind mounts)
+# ============================================================================
+volumes:
+  chroma_data:
+    driver: local
+  chatbot_logs:
+    driver: local

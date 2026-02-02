@@ -1,0 +1,74 @@
+{
+  "total_tests": 6,
+  "passed": 6,
+  "failed": 0,
+  "errors": 0,
+  "response_times": [
+    4.447296380996704,
+    4.340113878250122,
+    3.5584614276885986,
+    3.939335346221924,
+    3.8109471797943115,
+    1.5888500213623047
+  ],
+  "category_results": {
+    "product_query": [
+      {
+        "status": "success",
+        "query": "What smartwatches do you have?",
+        "answer": "We have the SmartWatch Pro X, SmartWatch Classic Gold, and SmartWatch Ultra Sport.",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 4.447296380996704
+      },
+      {
+        "status": "success",
+        "query": "Show me all laptops",
+        "answer": "We have the MacBook Style Laptop 13, Laptop UltraBook Pro 14, Budget Laptop Essential 15, and 2-in-1 Convertible Laptop.",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 4.340113878250122
+      }
+    ],
+    "feature_query": [
+      {
+        "status": "success",
+        "query": "Tell me about the SmartWatch Pro X features",
+        "answer": "The SmartWatch Pro X features a heart rate monitor, GPS tracking, 7-day battery life, water resistance up to 50m, AMOLED display, sleep tracking, stress monitoring, and over 100 workout modes.",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 3.5584614276885986
+      }
+    ],
+    "price_query": [
+      {
+        "status": "success",
+        "query": "How much does the UltraBook Pro 15 cost?",
+        "answer": "We have the Laptop UltraBook Pro 14 for \u20b965,999.",
+        "category": "products",
+        "routed_to": "rag_responder",
+        "response_time": 3.939335346221924
+      }
+    ],
+    "policy_query": [
+      {
+        "status": "success",
+        "query": "What is your return policy?",
+        "answer": "Our return policy allows for a 7-day no-questions-asked return, provided products are in original packaging. Refunds are processed in 5-7 business days, and return shipping is free for defective items.",
+        "category": "returns",
+        "routed_to": "rag_responder",
+        "response_time": 3.8109471797943115
+      }
+    ],
+    "invalid_query": [
+      {
+        "status": "success",
+        "query": "What's the weather today?",
+        "answer": "Your query requires human support. Please contact our support team:\n\n\ud83d\udce7 Email: support@techgear.com\n\ud83d\udd50 Hours: Mon-Sat, 9AM-6PM IST\n\nWe'll get back to you as soon as possible!",
+        "category": "unknown",
+        "routed_to": "escalation",
+        "response_time": 1.5888500213623047
+      }
+    ]
+  }
+}

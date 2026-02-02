@@ -57,17 +57,24 @@ def create_rag_chain():
     print(f"  - Persist directory: {persist_directory}")
     print(f"  - Collection: product_info")
     
-    # Step 2: Create retriever with top k = 3
+    # Step 2: Create retriever - optimized for speed and accuracy
     print("\n[Step 2] Creating retriever...")
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
+    retriever = vectorstore.as_retriever(
+        search_type="similarity",
+        search_kwargs={
+            "k": 4  # Optimal balance: 4 chunks * 600 chars = 2400 chars context
+        }
+    )
     print(f"✓ Retriever created")
-    print(f"  - Top K: 3 documents")
+    print(f"  - Top K: 4 documents (optimized)")
+    print(f"  - Search type: similarity")
+    print(f"  - Total context: ~2400 characters")
     
     # Step 3: Initialize Gemini model
     print("\n[Step 3] Initializing Gemini model...")
     try:
         llm = ChatGoogleGenerativeAI(
-            model="gemini-1.5-flash-latest",
+            model="gemini-2.5-flash",
             google_api_key=GEMINI_API_KEY,
             temperature=0.7,
             convert_system_message_to_human=True
@@ -75,7 +82,7 @@ def create_rag_chain():
     except:
         # Fallback to a different model name
         llm = ChatGoogleGenerativeAI(
-            model="gemini-pro",
+            model="gemini-2.5-pro",
             google_api_key=GEMINI_API_KEY,
             temperature=0.7,
             convert_system_message_to_human=True
@@ -86,7 +93,7 @@ def create_rag_chain():
     
     # Step 4: Create custom prompt template
     print("\n[Step 4] Creating prompt template...")
-    prompt_template = """You are a Retrieval-Augmented chatbot for customer support.
+    prompt_template = """You are a Retrieval-Augmented chatbot for TechGear Electronics customer support.
 
 INSTRUCTIONS (VERY IMPORTANT):
 - Answer ONLY what the user asked
@@ -96,11 +103,32 @@ INSTRUCTIONS (VERY IMPORTANT):
 - Keep the answer short and precise
 - If the question is about price, return ONLY the price
 - If the question is about warranty, return ONLY warranty details
-- If the answer is not found, say: "Information not available"
+
+ACRONYM HANDLING:
+- COD = Cash on Delivery
+- EMI = Equated Monthly Installments
+- UPI = Unified Payments Interface
+- If user asks "is cod available?" they mean "is Cash on Delivery available?"
+- If user asks about "emi" they mean EMI payment options
+- Expand acronyms when searching context
+
+BRAND-SPECIFIC QUERIES:
+- If the user asks about a specific brand (e.g., "AirPods", "MacBook", "iPhone", "Samsung Galaxy"):
+  * Check if that EXACT brand/model exists in the context
+  * If NOT found, say: "We don't sell [brand name], but we have similar products like [list alternatives]"
+  * DO NOT list random unrelated products
+- Example: "Do you sell AirPods?" → If no AirPods in context → "We don't sell AirPods, but we have Wireless Earbuds Elite and Earbuds Pro Max"
+
+PRODUCT NAME MATCHING:
+- If the user asks about a product with a slightly different name or size (e.g., "Pro 15" vs "Pro 14"), 
+  find the CLOSEST matching product in the context
+- If you find a very similar product (same brand/model but different size), answer about that product
+  and clarify: "We have the [actual product name] at [price/info]"
+- Only say "Information not available" if NO similar product exists at all
 
 FORMAT RULES:
 - Do NOT include headings like "Product:"
-- Do NOT list all features unless explicitly asked
+- DO NOT list all features unless explicitly asked
 - Answer in 1–2 sentences maximum
 
 Context:
